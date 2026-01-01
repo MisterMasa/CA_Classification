@@ -1,0 +1,3701 @@
+[
+  {
+    "id": "WP_458113634.1 carbonic anhydrase [Arthrobacter sp. R1-13]",
+    "sequence": "MATYLTPALAWRRLREGNERFVTGQSSHPNQDASRRSSLVENQHPFAVIFGCSDSRLAAEIIFDLGLGDAFVVRTAGQVIDDAVLGSLEYSVSELAVPLIVVLGHDSCGAVSATKTAVETGKMPIGFIRDLVERITPSVLTSLRNDQHEVNDMVVEHVKQTSQRLVDSSRVISTAIETGRVAVIGLSYSLAEGRAHFISGVGDL",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          51,
+          108
+        ],
+        "segments": [
+          "CSDSR",
+          "HDSC"
+        ],
+        "gap_len": 48
+      }
+    ]
+  },
+  {
+    "id": "WP_458111958.1 carbonic anhydrase [Arthrobacter sp. R1-13]",
+    "sequence": "MRSTPEITRKSLLIGSAWGLLALTAGCAKPTTGSEALPSSMPTASAANVAHWSYEGADGPGDWGNLSPAFQTCATGKAQSPVDIPAATPKSPAPISLAYSASECEVHDNGHTVELHAGSAQSLTVSAKTYTFKQMHFHDPSEHTIEGTRYDVEFHFVHQSDDGVLAVLGVLAKAGKTNTAWAPFVDAAAGSTSARSIGSVNLASLLPASLEHFAYEGSLTTPPCSENVLWLVLDQPIELGADQISKLCAVHSANNRPTQELNSRTVTLVNQ",
+    "family": "Alpha",
+    "matches": [
+      {
+        "family": "Alpha",
+        "span": [
+          135,
+          155
+        ],
+        "segments": [
+          "HFHDPSEHTIEGTRYDVEFH"
+        ],
+        "gap_len": null
+      }
+    ]
+  },
+  {
+    "id": "WP_458097568.1 carbonic anhydrase [Roseomonas sp. WA12]",
+    "sequence": "MTLPPRLIEGYRGFRHTRFRRERENYARLAEKGQNPEILMIACVDSRVAPEVVFDADPGEMLVVRNVANLVPPYQPDGAYHGTSAAIEFAVRTLKVNHVIVCGHASCGGINVFRQNALKGQDTTGGDFVAQWMEIAAPATRLACEGVDPLHDQTAMEHAAIRQSLINLRTFPWLAEREAAGELHLHGLHFAVFDGALLMLDEPAGTFSPVTDPLLA",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          42,
+          107
+        ],
+        "segments": [
+          "CVDSR",
+          "HASC"
+        ],
+        "gap_len": 56
+      }
+    ]
+  },
+  {
+    "id": "WP_458095155.1 carbonic anhydrase [Roseomonas sp. WA12]",
+    "sequence": "MAADPVAHTSLTPDEALAQLKKGNDEYQHEAPYNFAHGRQRRIELARGQAPFAVLVGCSDSRVPPELLFGRGLGELFIVRNAGNTVDTAALGSIEYGVGVLGCPLVVVLGHEGCGAVSAALDVVERNGTFPGVIGEMVQPIIPAVLSVRDANGKVSLDEAVIANARRVANRLRTQSPVLTAAIEQRKLKVVAARYDLDDGDVTWYEDN",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          57,
+          114
+        ],
+        "segments": [
+          "CSDSR",
+          "HEGC"
+        ],
+        "gap_len": 48
+      }
+    ]
+  },
+  {
+    "id": "WP_458091917.1 carbonic anhydrase [Vibrio parahaemolyticus]",
+    "sequence": "MNKTLLAFSLSLLTLSAAQASEWGYGNDKHGPEHWGEIAKDCATTKNQSPINIDNPADAKLEALNLSYTGQVIGLTNNGHTLQAQVNGRNSFTIDGETFELQQFHFHTPSENQIKGRQYPLEAHFIHANADGELAVISVMFDAGDQNAALSKLISAIPQENQTTFFKDTFEINDLLPKTANYYRFNGSLTTPPCSEGVRWFVLKDTQTLSKDQAAKLMEVMGQNNRPLQPLNARVVLSN",
+    "family": "Alpha",
+    "matches": [
+      {
+        "family": "Alpha",
+        "span": [
+          104,
+          124
+        ],
+        "segments": [
+          "HFHTPSENQIKGRQYPLEAH"
+        ],
+        "gap_len": null
+      }
+    ]
+  },
+  {
+    "id": "WP_458089873.1 carbonic anhydrase [Streptomyces spinosirectus]",
+    "sequence": "MQPLIDNARLFGQRPEEFAGLAEGQSPQVLFITCSDSRVVPALITGARPGELFELRTAGNIVPPYASEHPTGEACTIEYAVEVLGVRDIVVCGHSHCGAVGALVRGDDLTAVPAVRDWLTHATPRPSGTVEDPAVTEGVQSHVLTQLLRLRSYPYIEKRIDDGQLSLHGWFYEVHTGAVLTHDPQTDVFKAL",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          33,
+          97
+        ],
+        "segments": [
+          "CSDSR",
+          "HSHC"
+        ],
+        "gap_len": 55
+      }
+    ]
+  },
+  {
+    "id": "WP_458081578.1 carbonic anhydrase, partial [Pseudomonas aeruginosa]",
+    "sequence": "ARVPANEIVGMLPGDLFVHRNVANVVLHTDLNCLSVIQFAVDVLKVKHILVTGHYGCGGVRASLHNDQLGLIDGWLRSIRDLAYEYREHLEQLPTEEERVDRLCELNVIQQVANVSHTSIVQNAWHRGQSLSVHGCIYGIKDGLWKNLNVTVSGLDQLPPQYRLSPLGGCC",
+    "family": "None",
+    "matches": []
+  },
+  {
+    "id": "WP_458072319.1 carbonic anhydrase [Rhodanobacter sp. BL-MT-08]",
+    "sequence": "MSSLLRGVDEFSHHVFPENEALFSSLARGQAPHTLFITCADSRVVPEMITQTQPGELFVCRNIGNIVPGYGEMLGGVSAVVEYAVLALGVKLIVVCGHTDCGAMKGLCNGTASLNMPTVEAWLRNAEAARSVVFTRQLEPADTVQALVEENIKLQLTHLRTHPSVAAGIADGRLELQGWVYDIEHGQVRIFDEAEGQFQSLAEATARIEQRDHR",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          38,
+          101
+        ],
+        "segments": [
+          "CADSR",
+          "HTDC"
+        ],
+        "gap_len": 54
+      }
+    ]
+  },
+  {
+    "id": "WP_458069229.1 carbonic anhydrase [Vibrio parahaemolyticus]",
+    "sequence": "MKKSLTAIGLSLVFVGSANAANWGYEGSHGPEHWGEFASECAQGKNQSPIDIHSATQAELAKLQLDYQGKVVALTNNGHTLQTSIEGENVLTIDGKAFALKQFHFHTPSENHVDGKSYPLEAHYVHADEQGNLAVVAVFFEQGKANPALANLLENVPERDQNVAIRAPFDANALIPSDKDYYRFNGSLTTPPCSEGVRWFVIKDPQSISAEQIAQFEHVMGENNRPVQPLNARMVLTK",
+    "family": "Alpha",
+    "matches": [
+      {
+        "family": "Alpha",
+        "span": [
+          103,
+          123
+        ],
+        "segments": [
+          "HFHTPSENHVDGKSYPLEAH"
+        ],
+        "gap_len": null
+      }
+    ]
+  },
+  {
+    "id": "WP_458066986.1 carbonic anhydrase [Vibrio parahaemolyticus]",
+    "sequence": "MKKSLTAIGLSLVFVGSANAANWGYEGSHGPEHWGEFASECAQGQNQSPIDIHAATQAELAKLQLDYQGKVVALTNNGHTLQTSIEGENVLTIDGKAFALKQFHFHTPSENHVDGKSYPLEAHYVHADEQGNLAVVAVFFEQGKANPALANLLENVPERDQNVAIRAPFDANALIPSDKDYYRFNGSLTTPPCSEGVRWLVIKDPQSISAEQIAQFEHVMGENNRPVQPLNARMVLTK",
+    "family": "Alpha",
+    "matches": [
+      {
+        "family": "Alpha",
+        "span": [
+          103,
+          123
+        ],
+        "segments": [
+          "HFHTPSENHVDGKSYPLEAH"
+        ],
+        "gap_len": null
+      }
+    ]
+  },
+  {
+    "id": "WP_458066484.1 carbonic anhydrase [Vibrio parahaemolyticus]",
+    "sequence": "MNKTLLAFSLSLLTLSAAQASEWGYGNDKHGPEHWGEIAKDCATTKNQSPINIANPADAKLEALNLSYTGQVIGLTNNGHTLQAQVNGRNSFTIDGETFELQQFHFHTPSENQIKGRQFPLEAHFVHANADGGLAVISVMFDAGDQNTALSKLISAIPQENQTTFFKDTFEINDLLPKTANYYRFNGSLTTPPCSEGVRWFVLKDTQTLSKDQAEKLMEVMGQNNRPLQPLNARVVLSN",
+    "family": "Alpha",
+    "matches": [
+      {
+        "family": "Alpha",
+        "span": [
+          104,
+          124
+        ],
+        "segments": [
+          "HFHTPSENQIKGRQFPLEAH"
+        ],
+        "gap_len": null
+      }
+    ]
+  },
+  {
+    "id": "WP_458060069.1 carbonic anhydrase [Paraburkholderia strydomiana]",
+    "sequence": "MDFNDVMLERNADFANTTFAPDLKMMPSTGTVVVGCVDPRVDPANVLGLKQGEAAVIRNVGGRVNKPLLETLAVLGVVAKAAGRPDGARNLVLLQHTDCGIIGCYKHAPALLAKHLDVETDALDKLAVTEPYEAVALDVAALRANRNLPDNLVVSGLVYDVKTGLVKVVVPPAPLRETAG",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          35,
+          99
+        ],
+        "segments": [
+          "CVDPR",
+          "HTDC"
+        ],
+        "gap_len": 55
+      }
+    ]
+  },
+  {
+    "id": "WP_458059647.1 carbonic anhydrase [Paraburkholderia strydomiana]",
+    "sequence": "MKDIIDGFLKFQRDAFPRRSELFKRLATSQNPRTLFISCSDSRLVPELVTQREPGDLFVIRNAGNIVPSYGPEPGGVSATVEYAVSALGVTDVVICGHSDCGAMTAIAACKCLDHMPAVRNWLRYADSARVVNEARVHANERERVDSMVRENVIAQLANIKTHPSVRLALEQGHLALHGWVYNIETGSIDALDGATDRFVPLSEHPDVCATPARLSRAA",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          38,
+          101
+        ],
+        "segments": [
+          "CSDSR",
+          "HSDC"
+        ],
+        "gap_len": 54
+      }
+    ]
+  },
+  {
+    "id": "WP_458058498.1 carbonic anhydrase [Microcella sp.]",
+    "sequence": "MTTTERTPAAVWREMEEGNARFVAGDPRHPHQDAERRTELSGYQRPDAALFGCSDSRLAAEIIFDKGLGDLFVVRNAGQIVSDSVVGSLEYAVAVLEVPLIVVLAHDECGAVRAAIDQAGPNAPTLPAHIRSLVTQIMPAVQRVRIAAGAPSVDTIDPFEVGRQHLRDTVGALLSASELISEAVAAGRLAIVGANYQLHDGRVHSDAVVGAV",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          52,
+          109
+        ],
+        "segments": [
+          "CSDSR",
+          "HDEC"
+        ],
+        "gap_len": 48
+      }
+    ]
+  },
+  {
+    "id": "WP_458056377.1 carbonic anhydrase [Nitritalea sp.]",
+    "sequence": "MFTRKNNLFRLLNVTLFTCLLTVLTGGLALAQRDGREAKKEKEALYADPQWRKENYIINRDSAGANPYYALQKLMWGNKRFVESRSIHPRQDADVINALSKGQAPFATIVGCSDSRVSAEILFDQGFGDLFVTRTAGQVMAQASYGTIEFASGVLGTKLIVVLGHTYCGAVDAAIKLPENPPGHVVTLINSIKPATKRYFGVSDNLLNFAVKQNVINQVNELRELEPMLSRMYYNGEIVIVGAVYDLESGKVEFLEETLTDLPSSKFSKRDIMGL",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          111,
+          168
+        ],
+        "segments": [
+          "CSDSR",
+          "HTYC"
+        ],
+        "gap_len": 48
+      }
+    ]
+  },
+  {
+    "id": "WP_458054262.1 carbonic anhydrase [Nitritalea sp.]",
+    "sequence": "MQHSYPTLALPPLSLFFWLLLAACTRPTTPPPILGEDQHTENLDKSKILEFLLEGNTRFSEEHPIHPDQTLEKLRALNQGQHPIAAIVSCSDSRVPPELLFDQGLGDLFVIRNAGNIVSDYEIGSVEYAIDHLEVPLVIVLGHTQCGAIGAYVAKVQDTSSHLGTQAHPTYSTYIEKIIAYIEAEDEEKALPKSAPNFYEQAIVANVMHGVQAIHDALPEVEDKIKRGKLRIIGAIYDMETGKVRTLEKKL",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          89,
+          146
+        ],
+        "segments": [
+          "CSDSR",
+          "HTQC"
+        ],
+        "gap_len": 48
+      }
+    ]
+  },
+  {
+    "id": "WP_458053343.1 carbonic anhydrase [Mongoliitalea sp.]",
+    "sequence": "MCTTNLDKFFDYNKAWASHILEENPNYFTDIKEGQKPIALLLGCSDSRVSPSTVLGNNLGEFFIHRNIANVVSHTDLNFLSVMQYAVESLGVKDIIVYGHYGCGGIKAAFENKTNGLIDNWLANIKDVIRHHKAELDQMEDYDQKINLLVEMNVLEQIENIKQTSVYKKAIDRGEGLRLHAWVFDFSTGLVHDIKKKYKLEPANM",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          43,
+          103
+        ],
+        "segments": [
+          "CSDSR",
+          "HYGC"
+        ],
+        "gap_len": 51
+      }
+    ]
+  },
+  {
+    "id": "WP_458051799.1 carbonic anhydrase [Mongoliitalea sp.]",
+    "sequence": "MKLQEVFGNNEEWIQKKLSENPAYFHELSKGQEPKILYIGCSDSRVTAEELMGVAPGDVFVHRNIANLVIGIDVNAMAVLHYAVDHLKVDHIVLCGHYFCGGVKAAMQAADLGVLNPWLRNIRDVYRLHQAELDGIENENDRYNRLIELNVQEQCINLLKTATVQKAVRQRGLQVHGWVFDVSTGKLIDLKIDFKSILSKIMEIYDLGE",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          40,
+          100
+        ],
+        "segments": [
+          "CSDSR",
+          "HYFC"
+        ],
+        "gap_len": 51
+      }
+    ]
+  },
+  {
+    "id": "WP_458051238.1 carbonic anhydrase [Mongoliitalea sp.]",
+    "sequence": "MKRFHLLSNYLLWLLPFGALLVLTFGCKQAPVEQHLENIPKENLLEVLLEGNVRFAEDHPLHPDQTLTRLRELNKGQHPVAAIVSCSDSRVPPELVFDQGLGDLFVIRNAGNIVGDYEIGSLEYAIEHLEVPLVIILGHTNCGAIGAFVDHDHDHSHQYSIYIQKIIDFIEAEEEEKALPRDIPNFYEKAIEANILHGVHALKKALPSVDSLIAEKKLRVVGAIYDMETGKVRVLEDN",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          85,
+          142
+        ],
+        "segments": [
+          "CSDSR",
+          "HTNC"
+        ],
+        "gap_len": 48
+      }
+    ]
+  },
+  {
+    "id": "WP_458051115.1 carbonic anhydrase [Mongoliitalea sp.]",
+    "sequence": "MLTHISFKKAVFSACMLLLVATASFAQRSGTQVKDAKKALYDDPKWRKENYIINRDSAYANPYYALQKLRWGNQRFTEGRSIHPRQDAEVINELAKGQQPFATIVGCSDSRVSAEILFDQGFGDLFVTRTAGQVMAQASYGTIEFASAALGTKLILVLGHSKCGAVEAAISLPENPPGHISTLINSIKPATKRYFGVSDNLLEFAVRQNVINQVNELRELEPVLSRMYQRGEILIVGGVYDLATGQVEFLEETMVDLPATKYSKKDIMGM",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          106,
+          163
+        ],
+        "segments": [
+          "CSDSR",
+          "HSKC"
+        ],
+        "gap_len": 48
+      }
+    ]
+  },
+  {
+    "id": "WP_458042153.1 carbonic anhydrase [Microbacterium sp. HM-570]",
+    "sequence": "MSDNPTPARAWAEMLRGNARFVAGEPRHPRQDVERRHQTAAAQRPRAALFGCSDSRLAAEIIFDKGLGDLFVVRNAGQVISDSVVGSLEYAVAVLEVPLIVVLAHDECGAVRAAIDSTGIDAPALPAQVWRQIAPIVPAARRVLAAGAAQGVTPATIDTEAVGREHLRATVSELLRTSELISEAVAEGRLAIVGANYRLAEGTAVPDVLLGAAMDADA",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          51,
+          108
+        ],
+        "segments": [
+          "CSDSR",
+          "HDEC"
+        ],
+        "gap_len": 48
+      }
+    ]
+  },
+  {
+    "id": "WP_458035912.1 carbonic anhydrase [Paraburkholderia strydomiana]",
+    "sequence": "MTRYSEFEFRTQPWFDPAWFDRTAFQGFNQFIPMKTIVIHCFDPRASEIPQAVADYFGDEVYPGENILDEAGNRIGNTRTLFAVSNAGGRAFSALQSVATMDYLFKVQNVVVVHHSFCGATAFTPETLVDEFHDHHHANISTMFDQDSLAISHFEESIKHDVKLLRASPAVPKEVKLYGFFYEMNSGELTEVVRDIPA",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          40,
+          118
+        ],
+        "segments": [
+          "CFDPR",
+          "HSFC"
+        ],
+        "gap_len": 69
+      }
+    ]
+  },
+  {
+    "id": "WP_458027367.1 carbonic anhydrase [Methylomonas sp. MgM2]",
+    "sequence": "MPSPEKFLFTAISPTNSSSPISIAYACRKLKNKHIIVSGHYGCGGIKAALQQESSRFILMLTDMNR",
+    "family": "None",
+    "matches": []
+  },
+  {
+    "id": "WP_458024989.1 carbonic anhydrase [Paraburkholderia caledonica]",
+    "sequence": "MRKLIMGIVEFREKMLPQYAKQFSKLALAQTPDALFITCSDSRVVPDLLVSTHPGDLFTMRNVGNLIPPATSEGTSTGDLSEASAIEYAVLVLKVANIVVCGHSECGAMKAVYAHNAKLKAPNLDRWLFHANNAAFRLENEGPLNRTLKTHDQLSQLNVLVQLEHLMTYPIVHQQVTSGALVLSGWWFDIATGDMYAYERTSRSFEVIDRAMADRMIARLAARAR",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          38,
+          106
+        ],
+        "segments": [
+          "CSDSR",
+          "HSEC"
+        ],
+        "gap_len": 59
+      }
+    ]
+  },
+  {
+    "id": "WP_458022793.1 MULTISPECIES: carbonic anhydrase [unclassified Kosakonia]",
+    "sequence": "MNTLKPLLARNRSWALLKLQSDPHYFEQHLHQQQPHSLWIGCSDSRVPAEVLTGSHPGELFVHRNIANMVDPTDDNFMSVLQYALHYLKVHRIVLCGHYGCGGVQAALQLPQIPLAQESSALARRITLLRDVLGQKIDGAAFPSTPDAETLNQLVEDNVKIQFSRLVQTAPVLDVWRSQRELNIYGCVYDLATGHLKTLVEKTAEAST",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          41,
+          101
+        ],
+        "segments": [
+          "CSDSR",
+          "HYGC"
+        ],
+        "gap_len": 51
+      }
+    ]
+  },
+  {
+    "id": "WP_458016334.1 carbonic anhydrase [Glycocaulis sp.]",
+    "sequence": "MIPTRLHEGFARFRAERFERKQRIWQTLAKGQSPETLVIGCADSRVDPAAIFDAGPGELFIIRNVANLVPPYEPDSAHHGVSAALEYAVKVLKVKNIVVLGHRQCGGVAAAATGAAEDTQFVRKWLEPLTPVHAEACRELGADASVDDLCDDMELRSIRRSRERLMSFPFIAERVQAGTLVLHGARFGIADGELEWLMADGQFEAVAPALTPRSDRA",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          40,
+          105
+        ],
+        "segments": [
+          "CADSR",
+          "HRQC"
+        ],
+        "gap_len": 56
+      }
+    ]
+  },
+  {
+    "id": "WP_458015121.1 carbonic anhydrase [Glycocaulis sp.]",
+    "sequence": "MISDLMDANLEQVTQWRRKHPQGSLLPVQEMPPDTLWITATDSPLSPAMLTGLDAGRFTVLRTPGALITSSDLACLAVLDMALGHVQVRRIVVCGHYGCSAMAHICEGDGGDVSPTALWLAPAREAAMRHEAELKLIGGMQARANRLGDLVVAAQVRALATNPLVADVWRRRRSLTLHGLVYSLHDGLLREVCDPVSGPKQARVLVGGAA",
+    "family": "None",
+    "matches": []
+  },
+  {
+    "id": "WP_458013622.1 carbonic anhydrase [Glycocaulis sp.]",
+    "sequence": "MIPTRLHEGFARFRAERFERKQRIWQTLAKGQSPETLVIGCADSRVDPAAIFDAGPGELFIIRNVANLVPPYEPDSAHHGVSAALEYAVTVLKVKNVVVLGHRQCGGVHAAATGAAEDTQFVRKWLEPLTPVHAEACRELGADAPVDDLCDDMELRSIRRSRERLMSFPFIAEAVQAGNLALHGARFGIADGELEWLNSDGQFEAVVPALPPQADSA",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          40,
+          105
+        ],
+        "segments": [
+          "CADSR",
+          "HRQC"
+        ],
+        "gap_len": 56
+      }
+    ]
+  },
+  {
+    "id": "WP_457998966.1 carbonic anhydrase, partial [Klebsiella michiganensis]",
+    "sequence": "LGLIDNWLLHIRDIWFKHSSLLGEMPEERRLDTLCELNVMEQVYNLGHSTIMQSACKRGQKGTIHGWAYGIHYGLLR",
+    "family": "None",
+    "matches": []
+  },
+  {
+    "id": "WP_457997481.1 carbonic anhydrase [Cyanobacterium sp.]",
+    "sequence": "MKKLIEGLHRFHAGYFESHKELFEKLSQGQHPRILFITCSDSRIDPNLITQANVGDLFVIRNAGNIVPPYGATNGGEGASIEYAITALGIEHIIVCGHSHCGAMKGLFKMSKLEEQMPLVYDWLKQAEATRRLLKDNYGHLSDEEVLPIAIAENVLTQLENLATYPVIRSKLYQGKLALHAWVYNIESGDVLAYDPVSHDFVDLETRNAPPEFIYDLKPTNYYRTVPASPVNKTINDARTNQNNLNSSEIGEKLQETNKVSSPAFGDNHPRSNRLSAEQAERIYKGSY",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          38,
+          101
+        ],
+        "segments": [
+          "CSDSR",
+          "HSHC"
+        ],
+        "gap_len": 54
+      }
+    ]
+  },
+  {
+    "id": "WP_457995052.1 carbonic anhydrase [Cecembia sp.]",
+    "sequence": "MEIKNVFENNKTWIKEKLSIDPNYFQKLSEGQQPNILYIGCSDSRVTAEELMGVSPGEVFVHRNIANLVIGIDVNAMAVLHYAVDHLQVKHIVLCGHYFCGGVKAAMKAQDLGVLNPWLRNIRDVYRLHQKELDTIADENSRYNRLIELNVQEQCINLIKTATVQKAIKKRGLQVHGWVFDMASGKLIDLKIDFKSILSKIMEIYDLGE",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          40,
+          100
+        ],
+        "segments": [
+          "CSDSR",
+          "HYFC"
+        ],
+        "gap_len": 51
+      }
+    ]
+  },
+  {
+    "id": "WP_457993643.1 carbonic anhydrase [Cecembia sp.]",
+    "sequence": "MCKIDLEKYLAFNKEWASTMVNAQKGYFDTLKEGQHPKALLVGCSDSRVSPSKVLGIDLGELFIHRNIANVVSHTDLNFLSVMQYAVESLGIHDIIVYGHYGCGGIKAAYENKTNGLIDNWLANIKDVIRHHKSELEQISDEDERINKLVELNVLEQIENIKQTSIYKKAIARGEEIRLHAWVFDFSTGLVHDLKKKYNIVPVAV",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          43,
+          103
+        ],
+        "segments": [
+          "CSDSR",
+          "HYGC"
+        ],
+        "gap_len": 51
+      }
+    ]
+  },
+  {
+    "id": "WP_457992931.1 carbonic anhydrase [Cecembia sp.]",
+    "sequence": "MMRSSLFFFLFMWSFFSCQPKAVDQHLEEIPSENLLDVLLDGNLRFAEDHPLHPDQTLERIRDLNQGQHPVAAIISCSDSRVPPELVFDQGLGDLFVIRNAGNIVSDYEIGSVEYAVEVLGVPLVIVMGHTNCGAIHAFADYDHDHSHVYPEYIQKIIDYIDAEEEEKAIPRNIPNFLEKAIEANILHGVHELKKKIPQADSLMATNKLRIIGALYDMETGRVRLVKDE",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          76,
+          133
+        ],
+        "segments": [
+          "CSDSR",
+          "HTNC"
+        ],
+        "gap_len": 48
+      }
+    ]
+  },
+  {
+    "id": "WP_457990766.1 carbonic anhydrase [Burkholderia ambifaria]",
+    "sequence": "MQEIIDGFLKFRRDIMPARRELFRKLATSQTPRTLFISCSDSRMVPELVTQREPGDLFVIRNAGNIVPSFGPEPGGVSATVEYAVAALGVTDVVICGHSDCGAMTAVATCKCLDHMPAVANWLRYADSAKLVNEAREHAGERERVDSMVRENVIAQLDNLKTHPSVALGLAQGRLNLHGWVYDIESGSIDALDAATRQFVPLAAHPDVTATPAECVAAL",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          38,
+          101
+        ],
+        "segments": [
+          "CSDSR",
+          "HSDC"
+        ],
+        "gap_len": 54
+      }
+    ]
+  },
+  {
+    "id": "WP_457989157.1 carbonic anhydrase [Cytobacillus firmus]",
+    "sequence": "MKNNLFTKLFLGTVLLFMTACTSATQTSPEKKNSDKSETHWSYNGDTGPEHWGKIDAFSACADGTEQSPIDIEQTNEQTDQALSDIKINYSPTAFTLMNNDHTIQANDTSGRNNIIVNDEEYTLKQMHFHNPSEHQLNGNKFEMEGHLVHQNKEGQLAVLGFLIHTGNENKVLEEIWAALPKEKTEKDVILDKSINLENLLPKERKLFSYSGSLTTPPCSEGVKWFVLEQPIELSKEQINAFGSIFPHNSRSIQPLNERTVSELE",
+    "family": "Alpha",
+    "matches": [
+      {
+        "family": "Alpha",
+        "span": [
+          127,
+          147
+        ],
+        "segments": [
+          "HFHNPSEHQLNGNKFEMEGH"
+        ],
+        "gap_len": null
+      }
+    ]
+  },
+  {
+    "id": "WP_457987008.1 carbonic anhydrase [Achromobacter denitrificans]",
+    "sequence": "MRDIERLVDGFQRFQQQYYEDAPSLYRSLREGQHPSTLLIGCCDSRVDPAMLLGCDPGDIFTVRNVANLVPPSNTDRGLQGVLAAIQFAVEQLQVNRIIVLGHAHCGGIRTLMDRGLRGAGNGTGDDAGNDAAKHAGNGGEPDYLERWMDIAEPARRRVLQQMPDASTAERRRACEQASILISMRNLEELPFVRRAVQSGSLTLHGWYFDLVAGALLAYSARADAFLPIVCPLFTELA",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          41,
+          106
+        ],
+        "segments": [
+          "CCDSR",
+          "HAHC"
+        ],
+        "gap_len": 56
+      }
+    ]
+  },
+  {
+    "id": "WP_457985040.1 carbonic anhydrase [Achromobacter denitrificans]",
+    "sequence": "MCDCSSCANPLHFTRRRLLFGAAAMAAAGASGWLGDARAAVPSNDIGPDEALKRLMAGNARYAANKPNMRDYSAGRAARAVKQKPIAAILGCSDSRVAPELAFDQGPGDLFIVRVAGNFVNEDGLASLEYGTLVLHAPLILVLGHDNCGAVDATVKALKDKAEFPGHLPALVNAIKPAVEIASQSGAKDLMNAAVRENVRLAVERLKTAQPLLQDMVQQKKLGVVGGVYSLATGKVSLV",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          91,
+          148
+        ],
+        "segments": [
+          "CSDSR",
+          "HDNC"
+        ],
+        "gap_len": 48
+      }
+    ]
+  },
+  {
+    "id": "WP_457984059.1 carbonic anhydrase [Achromobacter denitrificans]",
+    "sequence": "MFPKRLSEGYQSFLQGRFHSESSRYQKLAETGQSPEILIIGCCDSRVSPEVIFDAGPGEMFVIRNVANLVPPCDPDSESSYHGTSAAIEFAVNGLNVKHIVVLGHASCGGIRSFFDCAKPLSKGDFIGKWMSQIEPVAERLGPATADRQTNLKRLELATVEHSLNNLMTFPSISQRVQNGELELHGTYFGVATGVLFLRNAKTGEFQPCLETGITG",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          41,
+          108
+        ],
+        "segments": [
+          "CCDSR",
+          "HASC"
+        ],
+        "gap_len": 58
+      }
+    ]
+  },
+  {
+    "id": "WP_457976911.1 carbonic anhydrase [Corynebacterium sp. UMB8791]",
+    "sequence": "MSTAKTPREVWELLRAGNERFVASQETHPHRDPTWREQLRDGQNPIAAVVACSDSRVPVELLFDVGFGDIFVIRTAGGCVDAAVSASVEYAVEGLNVPLVMFLSHESCGAVGTALNAVETEEVPDGLVRVFVEKIVPSVLEAPSRDPKDVEVTHANLSAQHLIERVPVLAERLANGTLGVVAARYQLADGQVHPTMETFGIE",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          51,
+          108
+        ],
+        "segments": [
+          "CSDSR",
+          "HESC"
+        ],
+        "gap_len": 48
+      }
+    ]
+  },
+  {
+    "id": "WP_457976389.1 carbonic anhydrase [Corynebacterium sp. UMB8791]",
+    "sequence": "MRKAHSAALAAVAASALLLGGCSQAGTSAPSTSSEAAPASEAHWGYEGDGAPEHWGDLSTEFEVCGNGKEQSPINLSDATPEDLADIEFAYAASTGEVLNNGHTLQYTPSTTQKVTLDGEDLELAQLHMHTPAEHEFDGKQLPGEIHFVHKNAAGDITVLGILLEEGAPNELVQYLLDNAPENVDTSHISQEEINIANALPASHEYITYGGSLTTPPCSENVRWIVMTQPVTASAEQLQAFESLIGKNARPVQDQNGRELTLDATS",
+    "family": "Alpha",
+    "matches": [
+      {
+        "family": "Alpha",
+        "span": [
+          127,
+          147
+        ],
+        "segments": [
+          "HMHTPAEHEFDGKQLPGEIH"
+        ],
+        "gap_len": null
+      }
+    ]
+  },
+  {
+    "id": "WP_457972149.1 carbonic anhydrase [Arthrobacter sp. D1-17]",
+    "sequence": "MATYLTPALAWRRLREGNERFVSGDTSHPNQDASRRSSLVENQHPFAVIFGCSDSRLAAEIIFDVGLGDVFVVRTAGQVIDDAVLGSLEYSIGVLGVPLIVVLGHDSCGAVSATKSAVETGQMPTGFIRDLVERITPSVLTSLRNDQTEVNDMVVEHVKQTSQRLVDSSRVISDAIEKGQAAVIGLSYSLAEGHAELVSGIGEL",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          51,
+          108
+        ],
+        "segments": [
+          "CSDSR",
+          "HDSC"
+        ],
+        "gap_len": 48
+      }
+    ]
+  },
+  {
+    "id": "WP_457963608.1 carbonic anhydrase [Arthrobacter sp. D1-29]",
+    "sequence": "MLSTPEFSRKTLMLGAGMGFLALATGCARAGSEAQPTPAASSAASTAAAAPEWEYTGAMGPQEWGTLSPTYGSCQAGTAQSPIDLTGGALNGTASGSGDQGTVIQLQYQPSDAEVVNNGHTSELHSAAPQVMLLNGLPWTFKQFHYHAPSEHTLDGKRFEAEFHFVHQSDDGRLAVLGVLAVEGPNNAAWAAFVDAAAAAPAAGSEAPAGVVDLGSLIPASLDHFAYTGSLTTPPCSENVQWLVLETPVELGRGQLDALTAVHDGNDRPLQALNGRAVSVVHQ",
+    "family": "Alpha",
+    "matches": [
+      {
+        "family": "Alpha",
+        "span": [
+          144,
+          164
+        ],
+        "segments": [
+          "HYHAPSEHTLDGKRFEAEFH"
+        ],
+        "gap_len": null
+      }
+    ]
+  },
+  {
+    "id": "WP_457952984.1 carbonic anhydrase [Amycolatopsis sp. TRM77291]",
+    "sequence": "MSDAPPTPSEAFDLLLSGNRRFVAGTPEHPNQDAVRRAETAPEQSPFAVLFGCSDSRLAAEIIFDRGLGDLFVVRTAGHVAGAEVLGSIEYAVSILKTPLVVVLGHDSCGAVAATRAALTDGLGTNSFVRDVIERVTPSVLAAQAAGLTENDDIIDEHIRHTVDLLVDRSRLLADKIEAGETAVAGLSYHLADGNARVVTTRGLN",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          52,
+          109
+        ],
+        "segments": [
+          "CSDSR",
+          "HDSC"
+        ],
+        "gap_len": 48
+      }
+    ]
+  },
+  {
+    "id": "WP_457949051.1 carbonic anhydrase [Pseudarthrobacter sp. alpha12b]",
+    "sequence": "MATNLTPALAWRRLREGNERFVNGESSHPNQNASRRSSLVETQHPFAVIFGCSDSRLAAEIIFDVGLGDVFVVRTAGQVIDDAVLGSLEYSVGVLGVPLIVVLGHDNCGAVTATRDAVETGEMPPGFIRDLVERITPSVLTSLRNNQTEVNDMVVENVKQTSQRLADSSRVISDAIEGGRTAVIGLAYRLAEGRADLVSGIGEL",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          51,
+          108
+        ],
+        "segments": [
+          "CSDSR",
+          "HDNC"
+        ],
+        "gap_len": 48
+      }
+    ]
+  },
+  {
+    "id": "WP_457946698.1 carbonic anhydrase [Enterobacter mori]",
+    "sequence": "MKHVYGKAALLALSMVSASAIASHWSYQGEGAPEHWGELDEAYKTCKSGLNQSPINIDSTAKAHLSPLETHYIDGPVTLTNNGHTIQAVEKADTRDSITLDNQTWTLQQFHFHAPSENTVHGKAFAMEMHLVHKNEKGELVVVAVMFNQGAANAELDKLWGVMPGQVDQNVSIKPNLDMNQLLPKDKTYWRFSGSLTTPPCSEGVTWIVLKHPLTVSAEQLGKFTHTMHHDNNRPLQSLHGRVVVE",
+    "family": "Alpha",
+    "matches": [
+      {
+        "family": "Alpha",
+        "span": [
+          110,
+          130
+        ],
+        "segments": [
+          "HFHAPSENTVHGKAFAMEMH"
+        ],
+        "gap_len": null
+      }
+    ]
+  },
+  {
+    "id": "WP_457941239.1 carbonic anhydrase [Mesorhizobium sp. 10J20-29]",
+    "sequence": "MSVHLPDHLLTGYRNFMSGRYPSESGRYRSLAREGQTPETMIIACCDSRAAPESIFDAGPGELFVVRNVANLVPPYEPDGEYHSTSAALEFAVQGLKVKNIVVMGHGRCGGIRAALDPSSSPLSPGDFIGKWMSLVAPAAESVTGNTMMTPGERQTSLERISIRYSIANLRTFPCVKILEGKGRLTLSGAWFDISSGELWVMNRDTGDFERPDAA",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          44,
+          109
+        ],
+        "segments": [
+          "CCDSR",
+          "HGRC"
+        ],
+        "gap_len": 56
+      }
+    ]
+  },
+  {
+    "id": "WP_457937009.1 carbonic anhydrase [Aeromonas veronii]",
+    "sequence": "MRKSLLACSLLLCPVVFAATPHWEYSGEAGPAHWAKLTPEFGQCAGSNQSPVDLSGLVEAKLAPLVLHYQAGGNTVVNNGHTVQVGYAPGSILQLDGTRFELKQFHFHAPSENLIEGKSYPLEGHLVHVSDKEEIAVVAVMFEAGKANPVLAAAWSALPAKVGETQALKAPLSAEQLLPESRDYYRFSGSLTTPPCSEGVRWLVMKQPVEVSQAQIDAFKAVMHHPNNRPVQPLNGRVVLQ",
+    "family": "Alpha",
+    "matches": [
+      {
+        "family": "Alpha",
+        "span": [
+          105,
+          125
+        ],
+        "segments": [
+          "HFHAPSENLIEGKSYPLEGH"
+        ],
+        "gap_len": null
+      }
+    ]
+  },
+  {
+    "id": "WP_457936442.1 carbonic anhydrase [Mesorhizobium sp. 10J20-29]",
+    "sequence": "MCTTCQATPLVRRDMLKLLAAGLAAGGAAGLAGPAVAASADATALTPDEAIAALKSGNQRFVDDPELCTLKLAEQRKGVSGHQAPWATVIGCADSRVPPELVFGGHGLGELFVARNAGNLVDTATMGTVEYGAAMLGSPLIVVLAHTSCGAVSAACKVVEDNATFPGSIGPMINPILPAAISARGEPGDYVDNAAKASAMRTAEQLTTASHVIGDLAAAGKLKVVAAIYDLETGVVSWL",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          91,
+          149
+        ],
+        "segments": [
+          "CADSR",
+          "HTSC"
+        ],
+        "gap_len": 49
+      }
+    ]
+  },
+  {
+    "id": "WP_457931928.1 carbonic anhydrase [Pseudomonas aeruginosa]",
+    "sequence": "MPDRMRGVKSDSPEQESADDALKRIVDGFQHFRREVFPEQQALFKKLAKSQRPRAMFITCADSRIVPELITQSSPGDLFVTRNVGNVVPPYGQMNGGVSTAIEYAVLALGVHHIIVCGHSDCGAMRAVLDPQTLERMPTVKAWLRHAEVARTVVADNCDCGASHDTLGVLTEENVVAQLDHLRTHPSVASRLASGQLFIHGWVYDIESAQIRAYDAKQGRFLPLDGEHPVPMATPAPRYLNS",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          59,
+          122
+        ],
+        "segments": [
+          "CADSR",
+          "HSDC"
+        ],
+        "gap_len": 54
+      }
+    ]
+  },
+  {
+    "id": "WP_457928174.1 carbonic anhydrase [Bosea thiooxidans]",
+    "sequence": "MCDLCARPVSGMSRRGLFAGMAAFSATAALSPRAFAQAAPQNAITPDEALKRLMDGNARYAANTSANLDYSAGRAARVTVQHPIAAILSCADSRVAPELAFDQGPGDLFVVRLAGNFVNDDGLASLEYAVKFLNTPLVMVLGHSRCGAIDAAIKVVRDGASLPGHLQEMVREIRPAVKAAKADKPDDVLAAAVAENIRRGVRRLETAKPILADFVRSGKVKVVGAHYELANGKIALV",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          89,
+          146
+        ],
+        "segments": [
+          "CADSR",
+          "HSRC"
+        ],
+        "gap_len": 48
+      }
+    ]
+  },
+  {
+    "id": "WP_457926836.1 carbonic anhydrase [Bosea thiooxidans]",
+    "sequence": "MDKPATPFPQRLTEGYRTFLDDRFVREKDRYEALGEHGQTPKIMLIGCCDSRVSPEVIFDARPGEMFVARNIANLVPPFQPDDNLHGTSAALEYAVQALRVEHIVVLGHGRCGGIRAFADDSQKALSPGDFIGKWITLIGPAAERTGGRGRNENFDDYLHRLELASIQQSLINLRSFPCVKILEEKGKLHLHGAFFAVATGVLMILDPITGQFIPAVGEMPKRVQQIRCVES",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          47,
+          112
+        ],
+        "segments": [
+          "CCDSR",
+          "HGRC"
+        ],
+        "gap_len": 56
+      }
+    ]
+  },
+  {
+    "id": "WP_444968730.1 carbonic anhydrase [Variovorax sp. BK018]",
+    "sequence": "MKSFIKGAMKFQADVFPKMSSLFKTLATSQKPGALFITCSDSRVIPELLTQQQPGDVFVIRNAGNIVPSYSSEPGGVTASVEYALGVLGVTDIVVCGHSDCGAMTAIAKHTCLDHLPAVAGWLRHADAAKVVNEAHTHDTPTAKVSSMVYANVVAQLANIRTHPTVALALEQGRLSLHGWVYDIESGDVKALDGKHGIFVSLAKHPDTVASEPHPQLKAA",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          38,
+          101
+        ],
+        "segments": [
+          "CSDSR",
+          "HSDC"
+        ],
+        "gap_len": 54
+      }
+    ]
+  },
+  {
+    "id": "WP_443099412.1 carbonic anhydrase [Cereibacter sphaeroides]",
+    "sequence": "MHNARPLPNYLVQRFHGWRATTFADNKSWYRRLSESGQHPRAMVISCCDSRVHVTSIFGADEGEFFIHRNIANLVPPYSPDGKQHGTSAAVEYAVTALGVAHIVVLGHSNCGGVKGCHDMCSGKAPQLEETSSFVGRWMDILRPGYDRVKDLPEEERVTALEKEAVLVSIGNLMTFPFVREAVEREVLTLHGLWTHIGEGSLEQYMPGQGFVPV",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          46,
+          121
+        ],
+        "segments": [
+          "CCDSR",
+          "HDMC"
+        ],
+        "gap_len": 66
+      }
+    ]
+  },
+  {
+    "id": "WP_443076579.1 carbonic anhydrase [Streptomyces sp. TRM 70361]",
+    "sequence": "MESNATDAVGKRNNTEEAPGRTDRRALLRTVLGGGAGVGLALTAPSVLTAAPVRTALPSAPARARPSTPRAALRELARGNRRWRALHQTHPHESPADRAAAVSGQDPFAVVLGCIDSRVPPELVFDQGLGDLMTTRSAGEVLDEAVLGSIAYGVLELDIPLVMVLGHQSCGAVTAAVHADESGEELPAHIDYIAEQIRPAIDHGLHGAARVDAAITANVRLIRARLAAEPDLAARVAGGDLAIAGARYELDSQLVHRVA",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          113,
+          170
+        ],
+        "segments": [
+          "CIDSR",
+          "HQSC"
+        ],
+        "gap_len": 48
+      }
+    ]
+  },
+  {
+    "id": "WP_443053109.1 carbonic anhydrase [Streptomyces sp. NBC_00273]",
+    "sequence": "MPMVGRLGGGEAGRPGGRAAGARGFGPSVTAAAGTGLTLAAAFPALAAPWDPEGTAPVTTPAQALRRLAAGNQRWRARHQDHPHESAAVRRRVVQGQQPFALVLGCVDSRVPPELVFDQGLGDLLTVRSAGEVLDEAVLGSIAYGVLELRIPLVLVLAHQSCGAVSAVVHADASGEPLPAHVQYLADQIRPSIDHGQYGEARVDATINAHVRNVRRRLAAEPDLAGKVVTGELAVLAARYELRDQHVRTLA",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          105,
+          162
+        ],
+        "segments": [
+          "CVDSR",
+          "HQSC"
+        ],
+        "gap_len": 48
+      }
+    ]
+  },
+  {
+    "id": "WP_443031712.1 carbonic anhydrase [Streptomyces sp. 3211]",
+    "sequence": "MQTLQTMPGRHDLADRVARFQREVFPAKAEFFDRLAEVHRPSTLFIGCSDARVVPELITQSEPGELFVVRTAGNLVPAHAPGADGVAASIEYAVAVLGVTDVVVCGHSACGAMTALAEGADLSGAASVAGWLRHADASVARTAGGAGPERLSALVRENVRAQLANLATHPSVARARAAGTLTLHGWVYEIRSGGVTEVGPTAAA",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          47,
+          110
+        ],
+        "segments": [
+          "CSDAR",
+          "HSAC"
+        ],
+        "gap_len": 54
+      }
+    ]
+  },
+  {
+    "id": "WP_443031269.1 carbonic anhydrase [Streptomyces sp. 3214.6]",
+    "sequence": "MSSENTPGNIPRNTPHGTARRALLRGGMAGALAVGGAALATAPASATAPVSASTPATGPWTTARPGTADEALRELAAGNRRWRTFCERHPDETPAVRQSLTAGQHPFAVVLGCIDSRVPPELVFDQGLGDLMTVRTAGEVLDEAVLGSVAYGVLELGIPLIMVLGHQSCGAVKAAVQADLTGDKLPAHIQYLADQIIPSIDRTKQGDARVDSTVDANVRAVRARLAAVPDLAAKISAGELAVVGARYELTTQLVHTLA",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          112,
+          169
+        ],
+        "segments": [
+          "CIDSR",
+          "HQSC"
+        ],
+        "gap_len": 48
+      }
+    ]
+  },
+  {
+    "id": "WP_443020413.1 carbonic anhydrase [Sphingobacterium sp. SYP-B4668]",
+    "sequence": "MKNEVLKAGFDKIITGNKEWMDFVKSDNTGRFEQLSKGQNPEILWIGCADSRVPANELTGTKPGEVFVHRNIANVCVHSDMNMLSVLDYAVNVLKVKHVIVAGHYGCGGVAASLSRKQYGVIDNWLCHIKDVYRLHAEEIDSIQDTEKKTDRLVELNVVEQVFNLCTTSIVQNAWKERDDLAVHGMVINIGSGELIDLKTTFTNNEALGKVFAFS",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          47,
+          107
+        ],
+        "segments": [
+          "CADSR",
+          "HYGC"
+        ],
+        "gap_len": 51
+      }
+    ]
+  },
+  {
+    "id": "WP_443015794.1 carbonic anhydrase, partial [Serratia nevei]",
+    "sequence": "MQHIIEGFLSFQKEIFPQRKELFRSLASSQNPKALFISCSDSRLVPELVTQQEPGQLFVIRNAGNIVPSFGPEPGGVSATIEYAVVALGVTDIVICGHSNCGAMKAIASCQCLDPMPAVAHWLHYADAAKAVVEKKTWNSETDKVNAMVEENVIAQLNNIKTHPSVAVGLRNSGLRLHGWVYDIESGEIRTLDRNTKSFVSLA",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          38,
+          101
+        ],
+        "segments": [
+          "CSDSR",
+          "HSNC"
+        ],
+        "gap_len": 54
+      }
+    ]
+  },
+  {
+    "id": "WP_443008590.1 carbonic anhydrase [Serratia nevei]",
+    "sequence": "MKEVIEGFLKFQREAFVERTALFQQLATRQNPRTLFISCSDSRLVPELVTQREPGDLFVIRNAGNIVPSFGPEPGGVTASVEYAVAALGVEDIVICGHSDCGAMTAIATCQCLDHLPTVAGWLRYADSAKAVNQAYPHASNEARIASMVRENVIAQLNNIKTHPSVALALDQGRLTLHGWVYDIASGAIEALDGETRRFVPLATHPDVTATPAFTRF",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          38,
+          101
+        ],
+        "segments": [
+          "CSDSR",
+          "HSDC"
+        ],
+        "gap_len": 54
+      }
+    ]
+  },
+  {
+    "id": "WP_442991559.1 carbonic anhydrase [Serratia bockelmannii]",
+    "sequence": "MKEVIEGFLKFQREAFVERTALFQQLATRQNPRTLFISCSDSRLVPELVTQREPGDLFVIRNAGNIVPSFGPEPGGVTASVEYAVAALGVEDIVICGHSDCGAMTAIATCQCLDHLPTVAGWLRYADSAKAVNQAYPHASDAARVASMVRENVIAQLNNIKTHPSVALALDQGRLTLHGWVYDIASGAIEALDGETRRFVPLATHPEVTATPAIARF",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          38,
+          101
+        ],
+        "segments": [
+          "CSDSR",
+          "HSDC"
+        ],
+        "gap_len": 54
+      }
+    ]
+  },
+  {
+    "id": "WP_442989259.1 carbonic anhydrase [Serratia bockelmannii]",
+    "sequence": "MKEVIEGFLKFQREAFVERTALFQQLATRQNPRTLFISCSDSRLVPELVTQREPGDLFVIRNAGNIVPSFGPEPGGVTASVEYAVAALGVEDIVICGHSDCGAMTAIATCQCLNHLPTVAGWLRYADSARAVNQAYPHASDAARVASMVRENVIAQLNNIKTHPSVALALDQGRLALHGWVYDIASGAIEALDGETRRFVPLATHPEVTATPAIARF",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          38,
+          101
+        ],
+        "segments": [
+          "CSDSR",
+          "HSDC"
+        ],
+        "gap_len": 54
+      }
+    ]
+  },
+  {
+    "id": "WP_442988401.1 carbonic anhydrase, partial [Serratia bockelmannii]",
+    "sequence": "MQHIIEGFLSFQKEIFPQRKELFRSLASSQNPKALFISCSDSRLVPELVTQQEPGQLFVIRNAGNIVPSFGPEPGGVSATIEYAVVALGVTDIVICGHSNCGAMKAIASCQCLDPMPAVAHWLHYADAAKAVVEKKTWDSETDKVNAMVEENVIAQLNNIKTHPSVAVGLRNSGLRLHGWVYDIESGEIRTLDRNTKSFVSLADNPDVY",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          38,
+          101
+        ],
+        "segments": [
+          "CSDSR",
+          "HSNC"
+        ],
+        "gap_len": 54
+      }
+    ]
+  },
+  {
+    "id": "WP_442982455.1 carbonic anhydrase, partial [Serratia marcescens]",
+    "sequence": "MQHIIEGFLSFQKEIFPQRKELFRSLASSQNPKALFISCSDSRLVPELVTQQEPGQLFVIRNAGNIVPSFGPEPGGVSATIEYAVVALGVTDIVICGHSNCGAMKAIASCQCLDPMPAVAHWLHYADAAKAVVEKKTWNSETDKVNAMVEENVIAQLNNIKTHPSVAVGLRNSGLRLHGWVYDIESGEIRTLD",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          38,
+          101
+        ],
+        "segments": [
+          "CSDSR",
+          "HSNC"
+        ],
+        "gap_len": 54
+      }
+    ]
+  },
+  {
+    "id": "WP_442971802.1 carbonic anhydrase [Rugositalea oryzae]",
+    "sequence": "MHPLSFPQRLIDGYSAFASGRLQSEQDRYRELAERGQKPEIMVIGCCDSRVSPEVIFDAGPGELFVVRNVANLVPPFETGGSYHGVSAALEFGVGALRVKHIVVLGHAHCGGVKAFAEDAEPLSPGDFIGRWMSLIAPAAEKLGPRGSLSPAEYIERLEKASVVNTLDNLLTFPRLKKLIERGEILTHGAYFGVATGQLSVLDRTTGEFKPVTGR",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          45,
+          110
+        ],
+        "segments": [
+          "CCDSR",
+          "HAHC"
+        ],
+        "gap_len": 56
+      }
+    ]
+  },
+  {
+    "id": "WP_442967341.1 carbonic anhydrase [Rhizobium sp. AG207R]",
+    "sequence": "MQTCHSTEPLMIDDLFTRNRQWSVERRAERPDYFERLSQLQKPEYLWIGCSDSRVPANVIAGLEPGEVFVHRNVANLIHPTDLNMLSVVEYAVHHLGVKHFIVCGHYGCGGVRAAVSGEPSRLIEHWLQPIRDVSDQKFRCRECEAWNDKDLERLCEASIAEQVRRLGSTPTLKSAWAAGKIVSIHGWVDGLKDGLLTDLGVTLSS",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          49,
+          109
+        ],
+        "segments": [
+          "CSDSR",
+          "HYGC"
+        ],
+        "gap_len": 51
+      }
+    ]
+  },
+  {
+    "id": "WP_442846975.1 carbonic anhydrase [Leeuwenhoekiella sp. H156]",
+    "sequence": "MDIQKIFENNKEWVKQRLSTEPNYFKKLSEGQSPKILYIGCSDSRVSSEELMGVGPGDVFVHRNIANMVPNTDLNSMSVINYAVEHLKVEHVVVCGHYYCGGVKAAMQSADLGLLNPWLRNIRDVYRIHKDELNEIKDEEERYKKFVELNVQEQCVNVIKTADVQKAIRTRKLSVHGWVFDIHSGKLIDLNIDFENILRNIMEIYRLDAL",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          40,
+          100
+        ],
+        "segments": [
+          "CSDSR",
+          "HYYC"
+        ],
+        "gap_len": 51
+      }
+    ]
+  },
+  {
+    "id": "WP_442839743.1 MULTISPECIES: carbonic anhydrase [Phyllobacteriaceae]",
+    "sequence": "MPHLPEHLLAGHRNFMRGRYPSESGRYTSLARQGQAPETMIIACCDSRSAPETIFDAGPGELFVLRNVGNLVPPYEPDGEFHSTSAALEFAVQSLKVKHIVVMGHGRCGGIRAALDTSHTPLSPGDFIGKWMSLIAPAAETVAATTLMTNSERQTALERISIRYSIANLRTFPCIKILEDKGKLTLHGAWFDISTGELWAMNRETGDFERPPLE",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          43,
+          108
+        ],
+        "segments": [
+          "CCDSR",
+          "HGRC"
+        ],
+        "gap_len": 56
+      }
+    ]
+  },
+  {
+    "id": "WP_442833921.1 carbonic anhydrase [Streptomyces sp. JW3]",
+    "sequence": "MQPLIDHARTFGQRPEEFARFAAGQSPDVLFITCSDSRVVPALITGARPGQLFELRTAGNVVPPYTAERPTGEAATIEYAVQVLGVDDIVVCGHSHCGAVGAMVRGDDLTAVPAVRDWLRYGADRPECADPADPAVAEPVQNHVLAQLLRLRSYPCVERGLTEGRLRLHGWYYEVHTGTVRAHRADTDTFDVL",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          33,
+          97
+        ],
+        "segments": [
+          "CSDSR",
+          "HSHC"
+        ],
+        "gap_len": 55
+      }
+    ]
+  },
+  {
+    "id": "WP_442817057.1 carbonic anhydrase [Streptomyces sp. NBC_01334]",
+    "sequence": "MITEDTSPTTARRALLRGGMAGAVALGGAALGTVPASAATATPGTGPRTTPRPGTAEAALRELVAGNRRWRTFRERHPDETPAVRRSLTAGQQPFALVLGCIDSRVPPELVFDQGLGDLMTVRSAGEVLDEAVLGSVAYGVLELDIPLVVVLGHQSCGAVKATVQADLTGTGLPRHIQYLADQITPYIDRTKEGDARVDSTIDANIRAVRSRLAAEPDLAAKISAGELAVVGARYELTTQLVHRIA",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          100,
+          157
+        ],
+        "segments": [
+          "CIDSR",
+          "HQSC"
+        ],
+        "gap_len": 48
+      }
+    ]
+  },
+  {
+    "id": "WP_442808185.1 carbonic anhydrase [Trinickia soli]",
+    "sequence": "MNHAKRLLLANRAWSNEVSARDPGFFEKLASGQQPRILWIGCSDSRVPAERITNAQPGELFVHRNIANLYTSDDGNTSSVIEYAVHALRVEHIVICGHHHCGGVRAALCPPSDALPVVNRRIEGLRDLAQRHRVELDEVGDLDARVDRLVELNVIEQVRLLRESPLVRSAPHQPVVHGWVFELRQGLLTPVTDRGNDAGSSRPLRRAA",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          41,
+          101
+        ],
+        "segments": [
+          "CSDSR",
+          "HHHC"
+        ],
+        "gap_len": 51
+      }
+    ]
+  },
+  {
+    "id": "WP_442798209.1 carbonic anhydrase [Pantoea vagans]",
+    "sequence": "MIVTTLKPLLAKNRSWALQRRQRNPDYFNKFLHQQKPHSLWIGCSDSRVPAEVLTGSHPGELFVHRNIANMVIEDDDNLLSVLQYALFFLGVKRIVLSGHYGCGGVEAAQNLPGSVLDGQESALARRIQTLRDDIQHGLAEMPLSDAPPGEQLDRLVEANVKAQFARLVKSEPVRQIWQSGQELEVFGCVYDLRSGHLKELIHQSAEEPSL",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          43,
+          103
+        ],
+        "segments": [
+          "CSDSR",
+          "HYGC"
+        ],
+        "gap_len": 51
+      }
+    ]
+  },
+  {
+    "id": "WP_442791590.1 carbonic anhydrase [Micromonospora sp. NBC_01813]",
+    "sequence": "MPDSRAPRPTGPPPPDHPGPAEALAELLAGNRRFVTGQPRHGHDVSAAAASAALGEQHPIAFVLGCIDSRVPLEAIFDQTFGSICVGRSGAQVLDQAILGSIEFAVAALGVPLVVVLGHERCGAVASTIAAERSGTRPTGSVGYLVEQIAPAVAEVGVDHPQAQPLAVRAHVRRTVHRLRQVEALAAALAQGRIDVTGGVYDLGNGQVELLT",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          65,
+          122
+        ],
+        "segments": [
+          "CIDSR",
+          "HERC"
+        ],
+        "gap_len": 48
+      }
+    ]
+  },
+  {
+    "id": "WP_442777277.1 carbonic anhydrase [Sphaerotilus montanus]",
+    "sequence": "MPDELLARLRRFHEHTFPGVQDQFQDLVTNGQHPTTLFIGCSDSRLVPYLLTGTGPGDLFMVRNVGAFVPPHDGSTGFHGTAAAIEYAVLQLQVSRIIVCGHSHCGGIRALYFGGPARASNLAVWLELGREAVLPVQPSDEALRRTEQRAVVLQLERLMGYPMVREQVEAGRLALHGWHYVIEEGEVHVFDVHSGGFLPASAAPHAGTGPYHPVG",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          40,
+          105
+        ],
+        "segments": [
+          "CSDSR",
+          "HSHC"
+        ],
+        "gap_len": 56
+      }
+    ]
+  },
+  {
+    "id": "WP_442764809.1 carbonic anhydrase [Sulfurospirillum cavolei]",
+    "sequence": "MKIADLISGYEKFKDTKYKKYEDKFIDLVKNGQKPKVLFIACSDSRVDPTLITDAAPGELFVLRNIGNFVPPFAPDDDYHATAAGIEYAVSVLGVSDIIVCGHSHCGAIETMYTKITDINLVHVKKWLQLGLDAKNYVEAKLGQNIDHAKRLELTEKISLLFQSKNLLTYPDVERRVNEGELFIRSWYYHLETGELEYFNTETGEFEPMLGCEG",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          41,
+          106
+        ],
+        "segments": [
+          "CSDSR",
+          "HSHC"
+        ],
+        "gap_len": 56
+      }
+    ]
+  },
+  {
+    "id": "WP_442756532.1 carbonic anhydrase [Methylocystis sp. JAN1]",
+    "sequence": "MRSHEKLLLENKAWAEEVKLREPDYFERLARGQKPEFLWIGCSDSRVPADIIVNAEPGLIFAHRNIANQVIATDFNCLSVVQYAVQVLKVKHIIVCGHYNCGGVRAALSHQGSDFTLLNKWLMHVRDVYRRHRDELDEIRSLDEKAHRLVELNVIEQVNSLSYTSIVQSAWKNEQRPMVHGWVFALDDGILKQLISLDPDTKVDEIYAWRD",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          41,
+          101
+        ],
+        "segments": [
+          "CSDSR",
+          "HYNC"
+        ],
+        "gap_len": 51
+      }
+    ]
+  },
+  {
+    "id": "WP_442755446.1 carbonic anhydrase [Methylocystis sp. JAN1]",
+    "sequence": "MSKIVDEVMAANAAYVSNFGAKGELALPPARGFAILTCMDARLDPAKYAGLSEGDAHVIRNAGGRASDDAIRSLVISHKLLGTKEWFVIHHTNCGMELFCDEVMADLLDDSLSTAALDMSTLKWSNPQHGGGCAAGHFIKWHTIKNQEESVAQDVARIRSHPLAPKYIPIYGYIYDVKSGRLIDVPKATEIGKAA",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          37,
+          94
+        ],
+        "segments": [
+          "CMDAR",
+          "HTNC"
+        ],
+        "gap_len": 48
+      }
+    ]
+  },
+  {
+    "id": "WP_442754047.1 carbonic anhydrase [Methylocystis sp. JAN1]",
+    "sequence": "MCQSCGFPNIAHQKKMPRRGFMFGAGAAGALFVAGEARSKAKTRESRKPAASPPRPQNVMTPDEALARLMEGNRRYQRGVPKRHDFIAEREALVGGQNPYAAILSCADSRIAPEYAFDSSRGDLFVCRVAGNFVNPENIASFEFAVEVLKTPLLLVLGHESCGAVRSAISSIADKTTLPGHLPYLVTALTPAVKAVAGRPGDELANATKENVRLGVEALRTATPLLSAAVNDKRLKIVGGVYRLADGQVELFA",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          105,
+          162
+        ],
+        "segments": [
+          "CADSR",
+          "HESC"
+        ],
+        "gap_len": 48
+      }
+    ]
+  },
+  {
+    "id": "WP_442728068.1 carbonic anhydrase [Streptomyces pseudogriseolus]",
+    "sequence": "MQPLIDNARTFGQRPEEFARLAEGQSPDVLFITCSDSRVVPALITGARPGQLFELRTAGNIVPPYSPGRPTAEAATVEYAVEVLGVTDVVVCGHSHCGAIGALVRGDDLDAVPAVRDWLAHAADEPASADATDPACADAVQHHVLAQLLRLRSYPCVEQRLASGRLRLRGWYYEVHTGAVREHRADTDAFEAL",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          33,
+          97
+        ],
+        "segments": [
+          "CSDSR",
+          "HSHC"
+        ],
+        "gap_len": 55
+      }
+    ]
+  },
+  {
+    "id": "WP_442710481.1 MULTISPECIES: carbonic anhydrase [Streptomyces]",
+    "sequence": "MQPLIDNARTFGQRPEEFARLAEGQSPDVLFITCSDSRVVPALITGARPGQLFELRTAGNIVPPYCPGRPTAEAATVEYAVEVLGVTDIVVCGHSHCGAIGALVRGDDLDAVPAVRDWLAHAADEPTSADATDPACAEAVQHHVLAQLLRLRSYPCVEQRLASGRLRLRGWYYEVHTGAVREHRAGTDAFEAL",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          33,
+          97
+        ],
+        "segments": [
+          "CSDSR",
+          "HSHC"
+        ],
+        "gap_len": 55
+      }
+    ]
+  },
+  {
+    "id": "WP_442697451.1 carbonic anhydrase [Streptomyces pseudogriseolus]",
+    "sequence": "MQPLIDNARTFGQRPEEFARLAEGQSPDVLFITCSDSRVVPALITGARPGELFELRTAGNIVPPYASDTPTGEKATIEYAVQVLGVQHIVVCGHSHCGAVGAVVRHDDLNAVPAVRDWLAHAAEEPKCSDTGDPTVAEAVQNHVLTQLLRLHSYPCVEKRLATGELRLHGWYYEVHTGIVREHRTLTDTFETL",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          33,
+          97
+        ],
+        "segments": [
+          "CSDSR",
+          "HSHC"
+        ],
+        "gap_len": 55
+      }
+    ]
+  },
+  {
+    "id": "WP_442681427.1 carbonic anhydrase [Sphingomonas sp. ASY06-1R]",
+    "sequence": "MDEFERLLAGYRRFRDEDWSQQRARWAELAEGQQPKTMVIACSDSRVDPTRIFDSAPGTLFVVRNIANLVPPFETSQGHHGVSAALEFAVTQLNVAEIIVLGHGACGGVAASLNHAFEGEPPGSGGFISDWVSLLNEARDRIVAEHGHGPHAVHALEHECVRVSLANLRTFPFIPQREQAGTLRLRGAYFAIAEGVLHVLDEASGTFAPARS",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          41,
+          106
+        ],
+        "segments": [
+          "CSDSR",
+          "HGAC"
+        ],
+        "gap_len": 56
+      }
+    ]
+  },
+  {
+    "id": "WP_442680196.1 carbonic anhydrase [Sphingomonas sp. ASY06-1R]",
+    "sequence": "MRKYKQLLLANKAWSFELRDESPDFFARHVGGQKPDFLWIGCSDSRVSPEQMTMTPPGGMFIHRNIANLVNEDDKNLMSVLQYAVGVLEVEHIIVCGHHGCGGMRAALDGGTDGVLDEWLDNARRVYHSNAAEIDGASTEEGRLNRLVEVNVRDQLVRLAHTKTVQDRWANGQKLALHGWIYDLRDGLIKPLMEVDATTRLDEVQAPERVL",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          41,
+          101
+        ],
+        "segments": [
+          "CSDSR",
+          "HHGC"
+        ],
+        "gap_len": 51
+      }
+    ]
+  },
+  {
+    "id": "WP_442678636.1 carbonic anhydrase [Sphingomonas sp. ASY06-1R]",
+    "sequence": "MNELIGRVLRFEKDVYPIRSELYGKLASRGQAPKALMISCADSRIVPEHVMQAEPGDLFVCRNAGNIVPPYATMNGGVSSTVEYAVHALGVRDIIVCGHSDCGAMKAVAEPHLAKDMPNVAAWLRHSGAANQVVRDAYPELSNGDLVRAISLENVVAQLAHLRTHPSVAAGIARGEISLHGWFVDIHAGQISGLDGDTGQFVPLREEDPLPVALRAERRTAIAYDSYAVAAE",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          39,
+          102
+        ],
+        "segments": [
+          "CADSR",
+          "HSDC"
+        ],
+        "gap_len": 54
+      }
+    ]
+  },
+  {
+    "id": "WP_442666920.1 carbonic anhydrase [Streptomyces pseudogriseolus]",
+    "sequence": "MQPLIDNARTFGQRPEEFARLAEGQSPDVLFITCSDSRVVPALITGARPGQLFELRTAGNIVPPYCPGRPTAEAATVEYAVEVLGVTDIVVCGHSHCGAIGALVRGDDLDAVPAVRDWLAHAADEPASADATDPACAEAVQHHVLAQLLRLRSYPCVEQRLASGRLRLRGWYYEVHTGAVREHRAGTDAFEAL",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          33,
+          97
+        ],
+        "segments": [
+          "CSDSR",
+          "HSHC"
+        ],
+        "gap_len": 55
+      }
+    ]
+  },
+  {
+    "id": "WP_442660362.1 carbonic anhydrase [Streptomyces pseudogriseolus]",
+    "sequence": "MQPLIDNARTFGQRPEEFARLAEGQSPDVLFITCSDSRVVPALITGARPGQLFELRTAGNIVPPYCPGRPTAEAATVEYAVEVLGVTDVVVCGHSHCGAIGALVRGDDLDAVPAVRDWLAHAADEPASADATDPACAGAVQHHVLAQLLRLRSYPCVEQRLASGRLRLRGWYYEVHTGAVREHRADTDAFEAL",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          33,
+          97
+        ],
+        "segments": [
+          "CSDSR",
+          "HSHC"
+        ],
+        "gap_len": 55
+      }
+    ]
+  },
+  {
+    "id": "WP_442638836.1 carbonic anhydrase [Roseicyclus sp.]",
+    "sequence": "MHRVKSLPDYLKERYDDWKQSSFPEHRDWFRKLADEGQSPRAMVIACCDSRVAVTSVFGQRIGELFVHRNIANLVPPYTPDGKHHGTGAAVEFAVTVLKVSHILVMGHSRCGGVRGCLEMCSGNAPELDRPESLVGRWLDVLRPGYARVVDLARPEDRQTALEKEGIQLSLENLMGYPFVAQAVDEARLTLHGLWTDIAEMDLETFDGTVRHFVKG",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          46,
+          111
+        ],
+        "segments": [
+          "CCDSR",
+          "HSRC"
+        ],
+        "gap_len": 56
+      }
+    ]
+  },
+  {
+    "id": "WP_442625517.1 carbonic anhydrase [Parasphingopyxis sp.]",
+    "sequence": "MPEFGALIDGYYRFRAGNYTAQKRRYDNLDHDGQHPPVMVIGCCDSRVDPATIFDTVPGQMFVLRNVANLVPPYQPGQGLHGASAAIEFAVVDLEVRHIVVMGHGKCGGITAALKNEDRGAPGPSFIDDWIRIIDEGRDRVIERCKADPSIDAQRALEHEAIRISIRNLRTFPYVAEHEADGTLKLHGCWFAISEGELHVMDNETEEFHPA",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          42,
+          107
+        ],
+        "segments": [
+          "CCDSR",
+          "HGKC"
+        ],
+        "gap_len": 56
+      }
+    ]
+  },
+  {
+    "id": "WP_442614065.1 carbonic anhydrase [Parasphingopyxis sp.]",
+    "sequence": "MPEFGALVDGYYRFRAGDYAAQKRRYDNLDHDGQHPPVMVISCCDSRVDPATIFDTVPGQMFALRNVANLVPPYQPDQRLHGASAAIEFAVVDLKVRHVVVMGHGKCGGITASLRDEDRGIRGPSFIDDWMTIIKQGRDRIVERAAADPALDAQRELEHEAIRISLQNLRTFPYVAEREAEGSLKLHGCWFAIADGELHVMDDESGAFRPA",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          42,
+          107
+        ],
+        "segments": [
+          "CCDSR",
+          "HGKC"
+        ],
+        "gap_len": 56
+      }
+    ]
+  },
+  {
+    "id": "WP_442586084.1 carbonic anhydrase [Methylophilus sp.]",
+    "sequence": "MYKHPLLDRENMTPREALDILIEGNRRFTSDIEEEKDFKALIQITKDKQHPFASFLSCSDSRAPVELLFDQALGDIFSVRLAGNIASDKAMGSLEFASKYLGSKLIVVMGHTSCGAVKAACDDFKDGHIGEIINLIKPAIRHEKTVADPAQRNSKNPDFVEKINELSVRYQIDTIIRSSDIVDDMIQSKQIAIVGAIYDISTGKVNFLDDTYVG",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          57,
+          114
+        ],
+        "segments": [
+          "CSDSR",
+          "HTSC"
+        ],
+        "gap_len": 48
+      }
+    ]
+  },
+  {
+    "id": "WP_442581779.1 carbonic anhydrase [Mesorhizobium sp. ASY16-5R]",
+    "sequence": "MTDLPDHLVAGYRSFIKGRYASETGKWRTLAREGQTPETMVIACCDSRAAPEVIFDSGPGELFVVRNVANLVPPYAPDGEFHSTSAALEFAVQVLKVKNIVVIGHGRCGGIRAALSPASEPLSPGDFIGKWMSLLGPAAESVSSNALSTASERQTSLERISIRYSIANLRTFPCISILEGKGRIALSGAWFDISTGELWVMNRATGDFERPDID",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          43,
+          108
+        ],
+        "segments": [
+          "CCDSR",
+          "HGRC"
+        ],
+        "gap_len": 56
+      }
+    ]
+  },
+  {
+    "id": "WP_442554596.1 carbonic anhydrase [Capnocytophaga sp.]",
+    "sequence": "MPTYQKIFENNRLWMQNRKEKDPLFFEKLAEDQNPDYLYIGCSDSRVATEELMGVGPGKVFVHRNIANVVNTLDMSSTAVIQYAVEHLNVKHIVVCGHYDCGGVKAAMQPKDYGLLNPWLRTIRDVYRLHQEELDAIKDSHERFHRLVELNVQEQCINVTKMAVVQESYVKNQIPLVHGWVFNIQTGELIDLHFDFEGFLHKIQKIYDLTGQKWYKQY",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          41,
+          101
+        ],
+        "segments": [
+          "CSDSR",
+          "HYDC"
+        ],
+        "gap_len": 51
+      }
+    ]
+  },
+  {
+    "id": "WP_442551838.1 carbonic anhydrase [Campylobacter sp.]",
+    "sequence": "MQGILDGAVKFMEEDFLEHKELFESLGEKQTPHTLFVGCIDSRVVPSLITNTMPGDLVVVRNIANIVPPYRKSEEFLATTSAIEYALQTLNVQNVIICGHSNCGGCAALWMDEAKFSKTPNVKRWLDLLEPVKKRVQKLFGDNIAKREWITERLSLVNSFENLLSYPDVKAKFRDGELKIYAWHYIIETGEIYNYNFVTKSFKLLGVEK",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          38,
+          103
+        ],
+        "segments": [
+          "CIDSR",
+          "HSNC"
+        ],
+        "gap_len": 56
+      }
+    ]
+  },
+  {
+    "id": "WP_442549578.1 carbonic anhydrase [Campylobacter sp.]",
+    "sequence": "MDDSLLEGAIKFMEDGFLEHEELFKSLQHKQDPHTLFISCVDSRVVPNLITNCLPGELFMVRNIANIVPHYRVTDEFLATTSAIEYALEVLNIKNIIICGHSDCGGCAALYVDEKKLKNTPNVKNWIKLIEPIKREVLKFTSDDPAKMAWLTERLNVINSIDNIMTYPNVKDEYEKGNLQIYGWHYIIETGEIFSYDLKEGTFKLLADRRGENA",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          39,
+          104
+        ],
+        "segments": [
+          "CVDSR",
+          "HSDC"
+        ],
+        "gap_len": 56
+      }
+    ]
+  },
+  {
+    "id": "WP_442530191.1 MULTISPECIES: carbonic anhydrase [Serratia]",
+    "sequence": "MKEVIEGFLKFQREAFVERTALFQQLATRQNPRTLFISCSDSRLVPELVTQREPGDLFVIRNAGNIVPSFDPEPGGVTASVEYAVAALGVEDIVICGHSDCGAMTAIATCQCLDHLPTVAGWLRYADSAKAVNQAYPHASDEARVASMVRENVIAQLNNIKTHPSVALALDQGRLTLHGWVYDIASGAIDALDGETRRFVPLATHPEVTATPALARF",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          38,
+          101
+        ],
+        "segments": [
+          "CSDSR",
+          "HSDC"
+        ],
+        "gap_len": 54
+      }
+    ]
+  },
+  {
+    "id": "WP_442524214.1 carbonic anhydrase [Serratia sp. CY54781]",
+    "sequence": "MKEVIEGFLKFQREAFVERTALFQQLATRHNPRTLFISCSDSRLVPELVTQREPGDLFVIRNAGNIVPSFGPEPGGVTASVEYAVAALGVEDIVICGHSDCGAMTAIATCQCLEHLPTVAGWLRYADSAKAVNQAYPHASDEARVASMVRENVVAQLNNIKTHPSVALALDQGRLTLHGWVYDIASGAIEALDGETRRFVPLTTHPDVTATPAIARF",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          38,
+          101
+        ],
+        "segments": [
+          "CSDSR",
+          "HSDC"
+        ],
+        "gap_len": 54
+      }
+    ]
+  },
+  {
+    "id": "WP_442508603.1 carbonic anhydrase [Novipirellula sp. SH528]",
+    "sequence": "MQKLVDGIHEFQDSYFTSHKLLFERLAQGQQPLALFITCSDSRIDPSLLTQTQPGELFIMRNAGNIVPPYGAVLGGEAATIEFAVSVLKVQDIIVCGHSHCGAMNGLLHPEAVDELPAVRAWLTHAEATSRIMKENYKHITEEAPRLTATVEENVLVQLENLRTHPSVAAKLARGDLKLHGWVYKFETGQVFAYDAEKGQYLPVEETVARSSSVSVELPSI",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          38,
+          101
+        ],
+        "segments": [
+          "CSDSR",
+          "HSHC"
+        ],
+        "gap_len": 54
+      }
+    ]
+  },
+  {
+    "id": "WP_442470784.1 carbonic anhydrase [Roseiarcus sp.]",
+    "sequence": "MDPLIEGYRKFRAEIWPAERARYEALAHWGQSPETMVIACSDSRVDPQTIFAAVPGELFVVRNVAAIVPPYQPDVGYHGTSAALEFGVRVLKVHRLVVLGHGQCGGVRAMAFGAPPQAPDFIASWVEIGRPAVEAAGETQEGRLSRIEAEVVRLSLANLMTFPWIAEAVAAGRLTLQGFLFDVHTGVLTSVGKDSLDVVT",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          39,
+          104
+        ],
+        "segments": [
+          "CSDSR",
+          "HGQC"
+        ],
+        "gap_len": 56
+      }
+    ]
+  },
+  {
+    "id": "WP_442468295.1 carbonic anhydrase [Roseiarcus sp.]",
+    "sequence": "MCEGNAVGRRDLLRFGAGVFAAAAFAAAMRPAYAAEGAPTSLTSDQALAELKAGNERYMSHPEVCSLDLAKQREQVAGHQAPWATIIACSDSRVPPELVFGGHGLGELFVARNAGNLVDTATLGTVEYGAAVLGSPLIVVLAHTNCGAVKAACDVVLKNATYPGAIGTMIEPILPAALAVRGESGDYVNNTAKRSALRTAERLPAASTLISGLVKDGKLKIVAGIYDLQSGAVTYLS",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          88,
+          146
+        ],
+        "segments": [
+          "CSDSR",
+          "HTNC"
+        ],
+        "gap_len": 49
+      }
+    ]
+  },
+  {
+    "id": "WP_442462779.1 carbonic anhydrase [Rhodoblastus sp.]",
+    "sequence": "MSEANFPKRLTEGYESFLGGRFGRERQRFEELAERGQNPQILLVGCCDSRVSPELIFDAGPGEMFVLRNVANLVPPYQPNDDYHGTSAAIEFAVMALKVKHIVVMGHAHCGGVKAYAELQNDPYMRPLAPGDFIGGWIKLMAPAAESLGPPTEPLREWSERLALESVKLSLQNLRTFPYVGTLEARGWLTLHGAYFGVAGGELLALDESDGVFRQVAPEAHQDALGRAPRF",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          45,
+          110
+        ],
+        "segments": [
+          "CCDSR",
+          "HAHC"
+        ],
+        "gap_len": 56
+      }
+    ]
+  },
+  {
+    "id": "WP_442461877.1 carbonic anhydrase [Rhodoblastus sp.]",
+    "sequence": "MNAANGEEIFPSQLVQGYERFLGGDFRRERSSFHELAEKGQHPHTLVIGCCDSRVMPEEIFGAAPGEIFDIRNVANIVPPFAANLAHHSAWAAIEYGVTALRVGCIVVLGHGNCGGVRAFVEGGAEKYQSPPPDDALGHWIGLISPAAKRLGAPPEQSGADYAERLARESVKQSLDNLRANPRLAALERAGELRLHGAFFDILDAQLLALDEARGEFIQVSAGRHRSALGVAPES",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          49,
+          114
+        ],
+        "segments": [
+          "CCDSR",
+          "HGNC"
+        ],
+        "gap_len": 56
+      }
+    ]
+  },
+  {
+    "id": "WP_442458001.1 carbonic anhydrase [Rhodoblastus sp.]",
+    "sequence": "MDEIKFPKRLTEGYENFLSARFPHERERFEELARQGQNPEILLIGCCDSRVSPELIFDAGPGEMFVLRNVANLVPPYQPNDDYHGTSAAIEFAVMGLKVKHIVVMGHAHCGGVKAFAEMRRDPYMRPLAPGDFIGRWIKLLGPAAEKIGDPTDPLNSWSERLAWESIRQSLANLRSFPYIATLENRGWLTLHGAYFGVAGGELTALDEKDGAFRQVSAEAHKKAFGATPRF",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          45,
+          110
+        ],
+        "segments": [
+          "CCDSR",
+          "HAHC"
+        ],
+        "gap_len": 56
+      }
+    ]
+  },
+  {
+    "id": "WP_442445945.1 MULTISPECIES: carbonic anhydrase [unclassified Pseudomonas]",
+    "sequence": "MPYKHQVIPLQTHEGNETAEQALRNIVDGFKRFRNEVFPQQEELFKKLATAQNPRAMFITCADSRVVPELITQSSPGDLFVNRNVGNVVPAYGQMMGGVSTAIEYAVLALGVQHIVVCGHSDCGAMKAVLNPESLETMPTVKAWLRHAEVARTVVAENCNCSNDQEALAVLTEENVVAQLNHLCTHPSVAAKLARGQLFIHGWVYDIETSQIKAYDAELGSFLPLDGDKMPMATPRARFAQP",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          60,
+          123
+        ],
+        "segments": [
+          "CADSR",
+          "HSDC"
+        ],
+        "gap_len": 54
+      }
+    ]
+  },
+  {
+    "id": "WP_442445725.1 MULTISPECIES: carbonic anhydrase [unclassified Pseudomonas]",
+    "sequence": "MNSTATRTGNTLRPVPKDQAQAALHQLVQGFRRFRQEVYPQQQALFKRLASAQAPSAMFITCADSRIVPELITQSDPGTLFVTRNVGNVVPPYGQMNGGVSTAIEYAVLALGVKHIIVCGHSDCGAMKAVLNPASLDGMPTVRAWLRHAEVARSVVADNCSCGSAHETLGVLTEENVVAQLDHLRTHPSVAARLASGQLHIHGWVYDIDSGGIRAYDAASGSFLPLDGDEQPCATPQPRYASA",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          61,
+          124
+        ],
+        "segments": [
+          "CADSR",
+          "HSDC"
+        ],
+        "gap_len": 54
+      }
+    ]
+  },
+  {
+    "id": "WP_442440194.1 carbonic anhydrase [Psychrobacter sp.]",
+    "sequence": "MPNDTRPKTGQEALEILREGNARYVDSLTSIESGMQRRPELVKDQDPLAIILGCSDARVPIEIVFDQGLGDLFVIRVAGNVVAPSQIGSIEFAAEKFGTKLVVVLGHSHCGAVTACVETLINPEQNYSPNLQSIVDRIRPSVYNLHELATANGQDVDADELLDRSIRANVRMSVSQLKHGSRALEDLTNSGQLLVVGAEYDLETGKVRFLES",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          53,
+          110
+        ],
+        "segments": [
+          "CSDAR",
+          "HSHC"
+        ],
+        "gap_len": 48
+      }
+    ]
+  },
+  {
+    "id": "WP_442431837.1 MULTISPECIES: carbonic anhydrase [unclassified Nitrospira]",
+    "sequence": "MPDLIKGFEKFHEEIYHHKQGLFEKLAHHQEPQALFITCSDSRINPHLLTQTEPGDLFILRNAGNLVPPYGAAIGGTTATIEFGASVLQVKEIIVCGHTDCGAMKALVRPESLQDLPAVRDWLRMAESTRQIVREMYAELKGEELFVATIKENVLVQLEHLKTHPAVAKRLRMGNLTLHGWIYSIATGEVWLYDPHQETFVFPKDVKKVKDA",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          38,
+          101
+        ],
+        "segments": [
+          "CSDSR",
+          "HTDC"
+        ],
+        "gap_len": 54
+      }
+    ]
+  },
+  {
+    "id": "WP_442430397.1 MULTISPECIES: carbonic anhydrase [unclassified Nitrospira]",
+    "sequence": "MEKLLKGLITFQEEVFLKKVELFTGLSGHQKPRAVFVTCSDSRIDPTLLTQTEPGDLFIIRNAGNLIPTYGAAIGGSTASLEYGISVLQVKDIIVCGHTDCGAMAALLHPEKLQELPAVKAWLQHAETTTRIMKDLYTHLQGEELFAATIRENVLVQLDHLKTHPAVATGLRRGNLRLHGWVYSIGTGDVWVYDWEKKSFIDPREKRGSVIV",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          38,
+          101
+        ],
+        "segments": [
+          "CSDSR",
+          "HTDC"
+        ],
+        "gap_len": 54
+      }
+    ]
+  },
+  {
+    "id": "WP_442427890.1 MULTISPECIES: carbonic anhydrase [unclassified Nitrospina]",
+    "sequence": "MNSQIKIIKPLCYFRLPGFLPTCFIVESGQMTTQLLNELMLGNQRFARGATLHPHQDPLYRKECAKGRPSPTAVLACSDSRVAPEIIFDQGLGDLFVLRVAGNIASSMVLASLEYAVEHLGTRLIIVLGHSNCGAVTAAVSGDQVPGHIGNLVEFIQPSVSKCTSNGHLPLVNEVVRENVLHNVQNIRKTEPILSKLTEEAGLVVMGAIYHLESGKIELL",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          76,
+          133
+        ],
+        "segments": [
+          "CSDSR",
+          "HSNC"
+        ],
+        "gap_len": 48
+      }
+    ]
+  },
+  {
+    "id": "WP_442426436.1 MULTISPECIES: carbonic anhydrase [unclassified Nitrospina]",
+    "sequence": "MNSQIKIIKPLCYFRLPGFLPTCFIVESGQMTTQLLNELMLGNQRFARGTTLHPHQDPLYRKECAKGRPSPTAVLACSDSRVSPEIIFDQGLGDLFVLRVAGNIASSMVLASLEYAVEHLGTRLIIVLGHSNCGAVTAAVSGDQVPGHIGSLVKFIQPSVSKCTSNGHLPLVNEVVRENVLHNVQNIRKTEPILSKLTEEAGLVVMGAIYHLESGKIELL",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          76,
+          133
+        ],
+        "segments": [
+          "CSDSR",
+          "HSNC"
+        ],
+        "gap_len": 48
+      }
+    ]
+  },
+  {
+    "id": "WP_442417223.1 carbonic anhydrase, partial [Microbacterium gubbeenense]",
+    "sequence": "MSKTEMTAGEVWDSLVEGNDRFVSGRPHHPHQTPERRGELVGEQTPHAAILGCSDSRVPAEIVFDCGLGDLVVVRNIGQVVNETVIATMEFAVVALGVPLIVVKAHTSCGAVAATIEQSGSTPPDTTPAIRNALDLIRPAVAEEWLSAPRASHVVDAELIDANSAGRRHVRRMIAELTSRSEVIAAAVDQGKV",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          52,
+          109
+        ],
+        "segments": [
+          "CSDSR",
+          "HTSC"
+        ],
+        "gap_len": 48
+      }
+    ]
+  },
+  {
+    "id": "WP_442416608.1 carbonic anhydrase [Microbacterium gubbeenense]",
+    "sequence": "MSKTEMTAGEVWDSLVEGNDRFVSGRPHHPHQTPERRGELVGEQTPHAAILGCSDSRVPAEIVFDCGLGDLFVVRNIGQVVNETVIATMEFAVVALGVPLIVIKAHTSCGAVAATIEQSGSTPPDTTPAIRNALDLIRPAVAEEWLSAPRASHVVDAELIDANSAGRRHVRRMIAELTSRSEVIAAAVDQGKVSIVGCQYDLDHGRTVPVTSVGALNI",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          52,
+          109
+        ],
+        "segments": [
+          "CSDSR",
+          "HTSC"
+        ],
+        "gap_len": 48
+      }
+    ]
+  },
+  {
+    "id": "WP_442416025.1 carbonic anhydrase [Microbacterium gubbeenense]",
+    "sequence": "MSKTEMTAGEVWDSLVEGNDRFVSGRPHHPHQTPERRGELVGEQTPHAAILGCSDSRVPAEIVFDCGLGDLFVVRNIGQVVNETVIATMEFAVVALGVPLIVVKAHTSCGAVAATIEQSGSTPPDTTPAIRNALDLIRPAVAEEWLSAPRASHVVDAELIDANSAGRRHVRRMIAELTSRSEVIAAAVDQGKVSIVGCQYDLDHGRTVPVTSVGALNI",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          52,
+          109
+        ],
+        "segments": [
+          "CSDSR",
+          "HTSC"
+        ],
+        "gap_len": 48
+      }
+    ]
+  },
+  {
+    "id": "WP_442401960.1 carbonic anhydrase [Mycobacterium sp.]",
+    "sequence": "MPNTNPVTAWKSLKEGNERFVAGKPAHPSQSVEHRASLAAGQKPTAVIFGCADSRVAAELIFDQGLGDAFVVRTAGQAIDSAVLGSIEFAVTVLGVPLIVVLGHDSCGAVKAALAAIEDGAIPGGFVRDVVERVAPSILMGRRDGLSRVDEFEKRHVRETVAQLLSRSTAIAERVAAGTLAVAGLAYHLADGRAVLLDHVGDIGE",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          50,
+          107
+        ],
+        "segments": [
+          "CADSR",
+          "HDSC"
+        ],
+        "gap_len": 48
+      }
+    ]
+  },
+  {
+    "id": "WP_442389634.1 carbonic anhydrase [Mycobacterium sp.]",
+    "sequence": "MPNTSPITAWKALKEGNERFVAGKQQHPSQSVEHRASLTGGQKPTAIVFGCADSRVAAELIFDQGLGDMFVVRTAGQAIDSAVLGSIEFAVTVLDVPLIVVLGHDSCGAVKAALGAINEGAIPGGFVRDVVERVAPSILMGRRDGLTRVDEFEERHVRETVAQLLSRSTAIAERVAAGTLAIAGVTYHLADGRAVLLDHAGDIGE",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          50,
+          107
+        ],
+        "segments": [
+          "CADSR",
+          "HDSC"
+        ],
+        "gap_len": 48
+      }
+    ]
+  },
+  {
+    "id": "WP_442362738.1 carbonic anhydrase [Mycobacterium sp.]",
+    "sequence": "MPNTSPITAWKALKEGNERFVAGNQQHPSQSVEHRASLAGGQKPTAVVFGCADSRVAAELIFDQGLGDMFVVRTAGQALDTAVLGSIEFAVTVLDVPLIVVLGHDSCGAVKAAVAAIEDGAIPGGFVRDVVERVAPSILMARRDGLTRIDEFEERHVRETVAQLMARSTAIAQKVAAGTLAVAGATYHLADGRAVLVDHVGDIGEAAAG",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          50,
+          107
+        ],
+        "segments": [
+          "CADSR",
+          "HDSC"
+        ],
+        "gap_len": 48
+      }
+    ]
+  },
+  {
+    "id": "WP_442321422.1 carbonic anhydrase [Cernens ardua]",
+    "sequence": "MCKEHKSKSLRIEDLLANNRSWSERMQEADTEFFSRLKDQQHPDFLWIGCSDSRVPANQIIDLPPGEVFVHRNVANVIYQTDMNAMSVIQYAVEVLKVRDILVVGHYGCGGVQASMLSPGNSGIVDDWLHPIREAYIDHRKELSHLPMAEQTNRMCEINVRMQVQSLIRTRFVQNAWLRGQPLTVHGWCYSLENGLVTDLDCTVSGFDGVTQLYS",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          49,
+          189
+        ],
+        "segments": [
+          "CSDSR",
+          "HGWC"
+        ],
+        "gap_len": 131
+      }
+    ]
+  },
+  {
+    "id": "WP_442306991.1 carbonic anhydrase, partial [Terriglobus sp. YAF25]",
+    "sequence": "LEAVSKPQEPHTLIITCADSRIDPELITQSGPGEIFVTRNIGNLVPPYGEMIGGVSSVIEYAVSALKVKHLVICGHSDCGAMKALLKPDSTEKMPTVRRWLRNAEAALSVTREIAAGPDMLFNLTEQNVLMQMTHAKTHPSVAGAMARGELTVGGWVYDIAKGDVRIYNDQKNKFESTVGAGA",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          16,
+          79
+        ],
+        "segments": [
+          "CADSR",
+          "HSDC"
+        ],
+        "gap_len": 54
+      }
+    ]
+  },
+  {
+    "id": "WP_442305849.1 carbonic anhydrase [Streptomyces sp. 2RAF24]",
+    "sequence": "MRSTQDLAEGVARFQRDVFPAKAELFARLATHHTPHTLFISCSDARVVPELITGTEPGDLFVIRTAGNLVPAHTPGADGVAASIEYAVAALGVRDIVVCGHSACGAMTALAQGHDLSGAPAVAAWLRHADASRARTAAGDIPALVRQNVLAQLANLATHPSVARALAERRITLRGWVYDIGTGGVEELTSTTGADTAAAPAAAA",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          41,
+          104
+        ],
+        "segments": [
+          "CSDAR",
+          "HSAC"
+        ],
+        "gap_len": 54
+      }
+    ]
+  },
+  {
+    "id": "WP_442305700.1 carbonic anhydrase [Streptomyces sp. 2RAF24]",
+    "sequence": "MIGCIDSRVPPELVFDQGLGDLIGVRSAGQALDEAVLGSVQFALEELHVRLIVVLGHERCGAAAAAIEHVRTGHPVEGHIERVVEELAPAARATRHLPGDWVENTVRANVDRVTRRLARDAAFADARIVGARFDLDTGMVAFHPA",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          3,
+          60
+        ],
+        "segments": [
+          "CIDSR",
+          "HERC"
+        ],
+        "gap_len": 48
+      }
+    ]
+  },
+  {
+    "id": "WP_442303047.1 carbonic anhydrase [Terriglobus sp. 2YAB30_2]",
+    "sequence": "MDVREHLKQGIHRFQTEIYPERREAYLEAVSKPQEPHTLIITCADSRIDPELITQSGPGEIFVTRNIGNLVPPYGEMIGGVSSVIEYAVSALKVKHLVICGHSDCGAMKALLKPDSTEKMPTVRRWLRNAEAALSVTREIAAGPDMLFNLTEQNVLMQMTHAKTHPSVAGAMARGELTVGGWVYDIAKGDVRIYNDQKNKFESTVGAGA",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          42,
+          105
+        ],
+        "segments": [
+          "CADSR",
+          "HSDC"
+        ],
+        "gap_len": 54
+      }
+    ]
+  },
+  {
+    "id": "WP_442301708.1 MULTISPECIES: carbonic anhydrase [unclassified Terriglobus]",
+    "sequence": "MQRLLDGYARFRNEVFPNHSSLFSQLARGQKPEVCLITCSDSRVMPEMILQCEPGQIFPIRNAGNLVPPPGESHSGVTATVEYAVKALKVADIVVCGHTGCGAMKEFLERKHVEELPLVHAWLRHAGPSAKWLRSLFEEAGAISLEKQTELLIQANVMTQLNHLAQQPAVAEGLANGTVRLHGWVYDIATGEIIALDNESGAFLPLTVGAGDENRRIA",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          38,
+          101
+        ],
+        "segments": [
+          "CSDSR",
+          "HTGC"
+        ],
+        "gap_len": 54
+      }
+    ]
+  },
+  {
+    "id": "WP_442287853.1 carbonic anhydrase [Variovorax sp. M-6]",
+    "sequence": "MLMIDAKEALQRLQEGNERFASESRDGERFRVRMRRATTYFEQQPFAIILGCSDSRVPVEIVFDQDLGDLFVIRVAGNIVAPSQLGSIEFAATAFGTRLVVVLGHTHCGAILSTLEQLQQPSEARSPHLHFIAKHIEPAVEDLLAPELGYDHATLVERSVRANVRQSVAQLRSGSKILEHLIETEGLRVIGAQYALETGRVEFFEDNRRIETFP",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          51,
+          108
+        ],
+        "segments": [
+          "CSDSR",
+          "HTHC"
+        ],
+        "gap_len": 48
+      }
+    ]
+  },
+  {
+    "id": "WP_442250764.1 carbonic anhydrase, partial [Stenotrophomonas sp. 2YAF22]",
+    "sequence": "LWIGCSDSRVPANQIIGMAPGEVFVHRNVANVVVHTDLNCLSVIQYAVDQLKVKHILIVGHYGCGGVHASLNNTRVGLADNWLRHVGDVAQKHAAIMDAIEEPELKHARLCELNVIEQVVNACRSTIVQDAWARGQKLMVHGWVYSLKDGRVREMGIDVGAPEELQPAYEKALSYVPRRGRRD",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          4,
+          64
+        ],
+        "segments": [
+          "CSDSR",
+          "HYGC"
+        ],
+        "gap_len": 51
+      }
+    ]
+  },
+  {
+    "id": "WP_442237164.1 carbonic anhydrase [Rhodopseudomonas pseudopalustris]",
+    "sequence": "MTSFPHSLLSGYRSFNSQRLPTEQARYRELSERGQAPEIMVIGCCDSRVSPEVIFDAGPGELFVLRNVANLVPVYAPDGAVHGVSAALEYAVQVLRVKHIVVLGHAQCGGIRAFVDKTEPLSPGDFIGKWMQMFVTAAQGVNQGPQEPIRQFLTRLEQAGVKRSLHNLMTFPCINVLVGRGKLQLHGAYFGVAEGSLSVLDHDSGEFREVTDSFAG",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          43,
+          108
+        ],
+        "segments": [
+          "CCDSR",
+          "HAQC"
+        ],
+        "gap_len": 56
+      }
+    ]
+  },
+  {
+    "id": "WP_442233989.1 carbonic anhydrase [Ruoffia tabacinasalis]",
+    "sequence": "MKNLYKALKQFKEQDYKENKDLYESLSEIQTPHTLFVGCSDSRVSPERLLQAYPGEIFHIRNIANIVPPAGQSVKYASTTSAIEYAVEVLNVKNIIICGHSNCGGCAASINPPENIEELPYTSIWISQLESLRQQVSKELPDEDMTVKANRLEKLNVIQQLSNLMTYENIRDRVEKNQIILNGWHYSIGDGVISIFNEEENEFIEL",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          38,
+          103
+        ],
+        "segments": [
+          "CSDSR",
+          "HSNC"
+        ],
+        "gap_len": 56
+      }
+    ]
+  },
+  {
+    "id": "WP_442230809.1 carbonic anhydrase [Serratia quinivorans]",
+    "sequence": "MTSINHLLVKNRSWATQQQSRDPDFFPQLAQAQKPHILWIGCSDSRVPAETIVRAQPGELFVHRNIANMVEEQDDNLMSVVQYAVEQLGIEAIVICGHYGCGGIQSALSSRDSTGRDSLTRRLNTLRNNLEQHLPSGSEASHDEASHLKKAANTNVQLQLHALSKTQLIQKAWRRNTALTLFGCIYDMHTGFLNVLEQRNADGRVT",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          41,
+          101
+        ],
+        "segments": [
+          "CSDSR",
+          "HYGC"
+        ],
+        "gap_len": 51
+      }
+    ]
+  },
+  {
+    "id": "WP_442230694.1 carbonic anhydrase [Serratia quinivorans]",
+    "sequence": "MKEVIEGFLKFQREAFVERTALFQRLATQQNPRTLFISCSDSRLVPELITQREPGDLFVIRNAGNIVPSFGPEPGGVSASVEYAVAALGVEDIVICGHSDCGAMTAIATCQCLDHMPTVANWLRYADSAKAVNQAYPHPSEGERVSSMVRENVIAQLTNIKTHPSVALALEQGRLKLHGWVYDIASGCIEALDGETRRFIPLATNPNVTATSAVSRF",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          38,
+          101
+        ],
+        "segments": [
+          "CSDSR",
+          "HSDC"
+        ],
+        "gap_len": 54
+      }
+    ]
+  },
+  {
+    "id": "WP_442221271.1 carbonic anhydrase [Rhizobium sp. 2YAF20]",
+    "sequence": "MVIEDLFVRNRLWSADRKAEDAAYFEQLSQLQQPDYLWIGCSDSRVPANVITGLEPGEVFVHRNVANLIHPADMNMLSVVEYAVHQLGVRHIIICGHYGCGGIRAAVSDKRFGLIDHWLQPVREVAEQQFECREGHLWAEEDLDRLCEACVATQVKRLARTPTLQAAWQAGKDVAIHGWVYGLKDGLLSDLGCTVTEP",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          40,
+          100
+        ],
+        "segments": [
+          "CSDSR",
+          "HYGC"
+        ],
+        "gap_len": 51
+      }
+    ]
+  },
+  {
+    "id": "WP_442219377.1 carbonic anhydrase [Rhizobium sp. 2YAF20]",
+    "sequence": "MNNLLKGISNFRGAVFPHDAALYRKLAREGQQPQALMISCADSRVMPETITQSGPGELFVCRNAGNIVPPFQTANGGVSSAIEYAVVALEVRDIIVCGHSDCGAMKGLCHPELLESMPNVAAWLKHSHAARAIVCEAYPQSLEEKDRIRAVAMENVVVQLDHLRTHPSVAAKLATNDLTLHGWFFDIESGEVLIFDGEAGHFIAVTDGQTLPVAVSGRQRPHVMPHSPMRDAAD",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          39,
+          102
+        ],
+        "segments": [
+          "CADSR",
+          "HSDC"
+        ],
+        "gap_len": 54
+      }
+    ]
+  },
+  {
+    "id": "WP_442216733.1 carbonic anhydrase [Rhizobium sp. 2YAF20]",
+    "sequence": "MQRFPSSLLNGYRNFMSGRYIDERDRYRSLAEDGQKPTTLVIACSDSRSAPETIFDAGPGELFVIRNVANMVPPHEPDGQFHATSAALEFGVKVLKVRDIVVMGHGRCGGIRAALDTTSEPLSEGDFIGKWMGLLKPATEQIQNNDVMTVAERQTALERISIRNSLNNLRSFPDIGTLEESGELALHGAWFDISTGELWVMDATTGDFTRPEV",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          43,
+          108
+        ],
+        "segments": [
+          "CSDSR",
+          "HGRC"
+        ],
+        "gap_len": 56
+      }
+    ]
+  },
+  {
+    "id": "WP_442214378.1 carbonic anhydrase [Rhizobium sp. 2TAF27]",
+    "sequence": "MGDLLKGISSFRGAVFPNHQALYRKLAEEGQQPQALMISCADSRVMPETITQSGPGELFVCRNAGNIVPPFSTANGGVSSAIEYAVVALGVRDIIVCGHSDCGAMKGLCHPDLLKPMPNVAAWLKHSHAAHSIVCEAYPVDLSERQRVRAIAMENVVVQLDHLRTHPSVAAKLATNDITLHGWFFDIETGEVLVYDGAAARFTEILEDGPLPVAVKGRGRPHVIPQAAE",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          39,
+          102
+        ],
+        "segments": [
+          "CADSR",
+          "HSDC"
+        ],
+        "gap_len": 54
+      }
+    ]
+  },
+  {
+    "id": "WP_442200983.1 carbonic anhydrase [Rhizobium sp. RAF56]",
+    "sequence": "MQRFPNNLLNGYRNFMSGRYAHERDRYRNLAEEGQNPTTLVIACSDSRSAPETIFDAGPGELFVVRNVANMVPPYEPDGHFHATSAALEFAVRALKVSDIVVMGHGRCGGIRAALDPSAEPLSPGDFIGRWMALLKPAAEQIQLNDVMTAAERQTALERVSIRNSIDNLRSFPDIRSLEETGKLQLHGAWFDISTGELWVMDAKTRDFIRPEA",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          43,
+          108
+        ],
+        "segments": [
+          "CSDSR",
+          "HGRC"
+        ],
+        "gap_len": 56
+      }
+    ]
+  },
+  {
+    "id": "WP_442195985.1 carbonic anhydrase [Rhizobium leguminosarum]",
+    "sequence": "MGDLSKGISHFRGSVFPEHSALYRKLAREGQQPQALMISCADSRVMPETITQSGPGELFVCRNAGNIVPPFQTANGGVSSAIEYAVVALGISDVIVCGHSDCGAMKGLCHPELLGPMPNVAAWLKHSHAAYSIVCEAYPPDLGEKDRIRAVAMENVVVQIDHLRTHPSVAAKLASNEVTLHGWFFDIETGSVLVYDGAVSRFTEIEDGQPLPVAVSGRGVTQVIPDLTTIAAE",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          39,
+          102
+        ],
+        "segments": [
+          "CADSR",
+          "HSDC"
+        ],
+        "gap_len": 54
+      }
+    ]
+  },
+  {
+    "id": "WP_442119722.1 carbonic anhydrase [Pseudomonas sp. SAS7]",
+    "sequence": "MKAIIDGFLKFQQNAFPERVKLFKDLANQQSPKALFISCSDSRLVPELVTQREPGDLFVIRNAGNIVPSYGPEPGGVSASVEYAVAGLNVADIVICGHSDCGAMTAIATCKCLDHMPAVAGWLRYADSAKVVNEARQHLDKPSKVASMVRENVIAQLANIQTHPSVRLALEEGRVTLHGWIYDIETGCIDAFDGSTGTFVSLAENPEVHAVSQQARHVA",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          38,
+          101
+        ],
+        "segments": [
+          "CSDSR",
+          "HSDC"
+        ],
+        "gap_len": 54
+      }
+    ]
+  },
+  {
+    "id": "WP_442114739.1 carbonic anhydrase [Pseudomonas sp. PAB10]",
+    "sequence": "MKELIDGFLKFQREAFPQRSSLFKHLASTQSPKTLFIACSDSRVVPELLTQQEPGELFVIRNAGNIVPSYGPEPGGVSATVEYAVAVLGVTDVVICGHSDCGAMTAIAQCKCLDHLPAVANWLRYSEGAKVINAGRSHSTDEARLTSLVKENVIAQLANLQTHPSVRLAQEQGALNLHSWVYDIESGGIDALDGVSRQFVSIADFPDTCAMPARAVANVA",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          38,
+          101
+        ],
+        "segments": [
+          "CSDSR",
+          "HSDC"
+        ],
+        "gap_len": 54
+      }
+    ]
+  },
+  {
+    "id": "WP_442111168.1 carbonic anhydrase [Pseudomonas sp. NUPR-001]",
+    "sequence": "MPIKDPSKAVPDVPAESADAALKHIVDGFLRFHHDVFPEQQELFKKLATAQKPRAMFITCADSRIVPELITQSSPGDLFVTRNVGNVVPPYGQMNGGVSTAIEYAVLALGVHHIIVCGHSDCGAMRAVLNPQSLEKMPTVKAWLRHAEVARTVVEDNCSCGSEHESMQVLTKENVIAQLQHLRTHPSVASRLAAGQLHIHGWIYDIETSQIEAYDAASDSFLPLTAGQPIPSATPKGRY",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          59,
+          122
+        ],
+        "segments": [
+          "CADSR",
+          "HSDC"
+        ],
+        "gap_len": 54
+      }
+    ]
+  },
+  {
+    "id": "WP_442104359.1 carbonic anhydrase [Pseudorhodobacter sp. W20_MBD10_FR17]",
+    "sequence": "MNRAKLLPSYLAQRYYGWKATAYADNKAWYRRLAESGQHPRAMIISCCDSRVHVTSIFGADEGEFFIHRNIANLVPPFTPDGKNHGTSAAVEYAVTALKVAHIVVLGHSNCGGVKGCHDMCSGNAPELLESSSFVGRWMDILRPGYERVAHIEESQRARALEKEAVLVSLENLMSFPFVKAAVDDDRLTLHGLWTDVGEGGLEQYDTSKGVFTAV",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          46,
+          121
+        ],
+        "segments": [
+          "CCDSR",
+          "HDMC"
+        ],
+        "gap_len": 66
+      }
+    ]
+  },
+  {
+    "id": "WP_442070052.1 carbonic anhydrase [Psychrobacter sp.]",
+    "sequence": "MPNDTRPKTGQEALEILREGNARYVDSLTSIESGMQRRPELVKDQDPLAIILGCSDARVPVEIVFDQGLGDLFVIRVAGNVVAPSQIGSIEFAAEKFGTKLVVVLGHSHCGAVTACVETLINPEQNYSPNLQSIVDRIRPSVYNLHELATANGQDVDADELLDRSIRANVRMSVSQLKHGSRALEDLTNSGQLLVVGAEYDLETGKVRFLESLD",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          53,
+          110
+        ],
+        "segments": [
+          "CSDAR",
+          "HSHC"
+        ],
+        "gap_len": 48
+      }
+    ]
+  },
+  {
+    "id": "WP_442057193.1 carbonic anhydrase [Pseudomonas taetrolens]",
+    "sequence": "MSTKDNQPLAAATACHDTEHADAALQHIVEGFMHFHHEVFPQQKDLFKRLATAQRPRAMFIACADSRIVPELITQSAPGDLFVTRNVGNVVPPYGQMNGGVSTAIEYANLALGVQHIIICGHSDCGAMRAVLNPASLERMPTVKAWLRHAEVAKTMVQENCDCANETEGMHILTEENVIAQLQHLRTHPSVASRIANGQLFIHGWIYNIETSQIKAYAAEQGCFLPLDNPLAIPCATPLPRF",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          62,
+          125
+        ],
+        "segments": [
+          "CADSR",
+          "HSDC"
+        ],
+        "gap_len": 54
+      }
+    ]
+  },
+  {
+    "id": "WP_442043989.1 carbonic anhydrase [Pseudogemmobacter sp. W21_MBD1_M6]",
+    "sequence": "MDHVKALPSYLVQRYQGWKATTYSENKVWYRRLADDGQRPRAMVISCCDSRVHVTSIFGADQGEFFIHRNIANLVPPFINDGDHHGTSAAIEYAVTELKVAHLIVLGHSNCGGVKGCMDMCSGHAPTLEKKTSFIGRWMDILRPGYERIADIKDDTERMRALEKEAVLISLQNLMSFPFIKEAVEAEQMTLHGLWTDIGEGGLEYYDGEKNAFFKI",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          46,
+          111
+        ],
+        "segments": [
+          "CCDSR",
+          "HSNC"
+        ],
+        "gap_len": 56
+      }
+    ]
+  },
+  {
+    "id": "WP_442042485.1 carbonic anhydrase [Microvirga sp. 2MCAF35]",
+    "sequence": "MNAPQLCEAGLREERANTAGDQSPWATVLTCSDSRVAPELIFGGVGLGELFVARNAGNVVDTAVLGTIEYGAEHLGSPLVVVLGHQRCGAVQAACDVVAKHVELQGSIGPMVEAIVPAAKSQEGKPGDFVDNTVRENARRNAAGILAGSDIVRELVHEGQLKVVHARYDLESGVVDFLD",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          30,
+          88
+        ],
+        "segments": [
+          "CSDSR",
+          "HQRC"
+        ],
+        "gap_len": 49
+      }
+    ]
+  },
+  {
+    "id": "WP_442037710.1 carbonic anhydrase [Microvirga sp. 2MCAF35]",
+    "sequence": "MFPQRLTEGYRAFLDDRLPREKNRYEALAEKGQSPEVMIIGCCDSRVSPEVIFDASPGEMFVVRNVANLVPPFETGGDYHGTSAALEFAVQALRVKHIVVLGHARCGGIRAFADDAAPLSPGDFIGRWMSLIKPAGDRLGPHDGNLEEYLPRLELAAIENSLRNLMTFPCVRILVERGKLQLHGAYFGVATGKLLVRDPDTGEFKPVVEDVNVKTTFRCS",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          41,
+          106
+        ],
+        "segments": [
+          "CCDSR",
+          "HARC"
+        ],
+        "gap_len": 56
+      }
+    ]
+  },
+  {
+    "id": "WP_442023033.1 MULTISPECIES: carbonic anhydrase [unclassified Pseudoduganella]",
+    "sequence": "MSENQDVLQNLLESNRKWAADKVAKDPDYFHNLSTVAPEYLWIGCSDSRVPANELLGIPPGKVFVHRNIANVVVHSDLNSLSVLQFAIEVLKVKHVIIVGHYGCKGVHTALTGGRVGLVDNWLRHVQDVAQKHDRYLGEALGDIGKRSERLCELNVMEQVVNVCQTTIVQDAWDRGQELTVHGFVYGLRDGLLNDLKMSIASPADLAPRLDACLKSYATSAA",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          44,
+          104
+        ],
+        "segments": [
+          "CSDSR",
+          "HYGC"
+        ],
+        "gap_len": 51
+      }
+    ]
+  },
+  {
+    "id": "WP_442022106.1 carbonic anhydrase [Oceanisphaera sp. W20_SRM_FM3]",
+    "sequence": "MKEIIEGFLKFRKDVFPVHEDLFKGLAHQQSPSTLFISCSDSRLVPELVTQHQPGGLFVIRNAGNIVPSYGPEPGGVTASVEYAVTALRVTDVVICGHSDCGAMKAIATCACMDTMPAVGSWLRYADSARVVNQARHHNNERERISAMVRENVIAQLANIQTHPSVRLALEEGRLSLHGWVYDIESGRIEAFDGASRAFVSLDEHTEVCATPVQFATAV",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          38,
+          101
+        ],
+        "segments": [
+          "CSDSR",
+          "HSDC"
+        ],
+        "gap_len": 54
+      }
+    ]
+  },
+  {
+    "id": "WP_441998641.1 carbonic anhydrase [Microvirga sp. 2TAF3]",
+    "sequence": "MFPTRLTDGYRSFLDERFAREKGRYEQLAEKGQSPEIMLIGCCDSRVSPEVIFDASPGELFVVRNVANLVPPYETGGDYHGTSAALEFAVQALRVKHIVVMGHARCGGIRAFADDTAPLSPGDFIGRWMNLIAPAAERIGPRQGDLAEYQARLELAAIENSIKNLMTFPCVRILVERGKLQLHGAYFGVASGVLLVRNPETGTFAPALENMPERVSMFSARDAGSL",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          41,
+          106
+        ],
+        "segments": [
+          "CCDSR",
+          "HARC"
+        ],
+        "gap_len": 56
+      }
+    ]
+  },
+  {
+    "id": "WP_441986121.1 carbonic anhydrase [Microvirga sp. 2YAF29]",
+    "sequence": "MFPQRLTEGYQAFLDDRFPREKGRFEALAEKGQSPETMVIGCCDSRVSPEVIFDASPGELFVVRNVANLVPPFETGGDYHGTSAALEFAVQALRVKHIVVLGHARCGGVRAFADDTAPLSPGDFIGRWMTLIKPAGERLGPHNGNLEEYLPRLELAAVENSLKNLMTFPCVRILVERGKLQLHGAYFGVATGVLLVRDPETGEFKPAVENVPDRFSMFSARQVEP",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          41,
+          106
+        ],
+        "segments": [
+          "CCDSR",
+          "HARC"
+        ],
+        "gap_len": 56
+      }
+    ]
+  },
+  {
+    "id": "WP_441968331.1 carbonic anhydrase [Microvirga sp. 2MCAF38]",
+    "sequence": "MFPTRLTEGYRAFLAERFAREKGRYEVLAEQGQSPEIMVIGCCDSRVSPEVIFDASPGELFVVRNVANLVPPYETGGDYHGTSAALEFAVQALRVKHIVVLGHARCGGIRAFADDTAPLSPGDFIGRWMNLIAPAAERIGPRGTDFVEYQRRLELAAIENSIRNLMTFPCVRILAERGKLQLHGAYFGVATGVLMVRNSETGEFSPAVEDMPEHISQFRARAVEP",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          41,
+          106
+        ],
+        "segments": [
+          "CCDSR",
+          "HARC"
+        ],
+        "gap_len": 56
+      }
+    ]
+  },
+  {
+    "id": "WP_441949651.1 MULTISPECIES: carbonic anhydrase [unclassified Nocardia]",
+    "sequence": "MPDSNPISAWKSLREGNERFVNDALLHPSQGAADRAKLVSGQHPHAILFGCGDSRVAAELIFDQGLGDMFVVRTAGHVVDSSVLGSIEYGVQVLNVPLIVVLGHDSCGAVKATIDALDGGEVPGGFIRSVVERVTPSILVGRREGLSTVDEMEARHVVETSRLLMQRSMIISQRVATGECAIACVTYKLAEGRVKLHRVVGNIGEVV",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          50,
+          107
+        ],
+        "segments": [
+          "CGDSR",
+          "HDSC"
+        ],
+        "gap_len": 48
+      }
+    ]
+  },
+  {
+    "id": "WP_441940334.1 carbonic anhydrase [Mesorhizobium sp. 2RAF45]",
+    "sequence": "MIEDLFVRNKMWSDERKAERVDYFQRLSNLQNPEYLWIGCSDSRVPANVIAGLEPGEVFVHRNVANLIHPTDLNMLSVVEYAVNQLGVRHIIVCGHYGCGGIRAAVSGKGLGLIDHWLQPIRDVAEAEFECRECGTWSDTDLDRLCERSVASQVKRLARTPILHAAWRSNKNVSIHGWIYGLKDGLLYDLNCTIASNQDI",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          39,
+          99
+        ],
+        "segments": [
+          "CSDSR",
+          "HYGC"
+        ],
+        "gap_len": 51
+      }
+    ]
+  },
+  {
+    "id": "WP_441902881.1 carbonic anhydrase [Microbacterium sp.]",
+    "sequence": "MIPADVWNQMLDGNRRFVENAPEHPHQDAGRRNELAASQAPRAALFGCSDSRLAAEIIFDMGLGDLFVVRNAGQVTGESIMGSLEYAVEVLKVPLIVVLSHDACGAVRAAIDSFDIDKEPLPPYIWRLIAPIVPAVQSELRAGSDEGVTHETVSAENVGRRHLEQTVASILRHSELISEAVAEGRLGIVGANYRLAEGKVESRVVVGAEQ",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          47,
+          104
+        ],
+        "segments": [
+          "CSDSR",
+          "HDAC"
+        ],
+        "gap_len": 48
+      }
+    ]
+  },
+  {
+    "id": "WP_441892256.1 carbonic anhydrase [Microbacterium sp.]",
+    "sequence": "MTTLTPTAAWRQMLDGNHRFVAGEPRHPNQNVERRHDLADHQNPVATLFGCSDSRLAAEIIFDLGLGDLFVVRNAGQVIGESIVGSLEYAVEILKVPLIVVLAHDECGAVRAAIDGTAIDADPLPPHIWKLIAPIIPAARKVLAANGGSSPADIDAEQVGREHLRNTVANLLQSSELISEAVAEGRLGIVGANYRLAEGTAVPAITVGIDTGPEIPATQEGSK",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          50,
+          107
+        ],
+        "segments": [
+          "CSDSR",
+          "HDEC"
+        ],
+        "gap_len": 48
+      }
+    ]
+  },
+  {
+    "id": "WP_441883913.1 carbonic anhydrase [Microbacterium sp.]",
+    "sequence": "MSVLTPTAAWQEMLDGNRRFVAGQPRHPNQDVGRRHDLAHQQNPTATLFGCSDSRLAAEIIFDLGLGDLFVVRNAGQVIGESIVASLEYAVGILEVPLIVVLAHDECGAVAAAIDGTAIDATPLPPAIWKLIAPIIPAARKVLTESGGSSPADIDAELVGREHLRNTVASLLQSSEMISTAVAEGRLGIVGANYRLAEGTAVPVITVGIDSGLEVPETQEGSK",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          50,
+          107
+        ],
+        "segments": [
+          "CSDSR",
+          "HDEC"
+        ],
+        "gap_len": 48
+      }
+    ]
+  },
+  {
+    "id": "WP_441883727.1 carbonic anhydrase, partial [Microbacterium gubbeenense]",
+    "sequence": "EVWDSLVEGNDRFVSGRPHHPHQTPERRGELVGEQTPHAAILGCSDSRVPAEIVFDCGLGDLFVVRNIGQVVNETVIATMEFAVVALGVPLIVIKAHTSCGAVAATIEQSGSTPPDTTPAIRNALDLIRPAVAEEWLSAPRASHVVDAELIDANSAGRRHVRRMIAELTSRSEVIAAAVDQGKVSIVGCQYDLDHGRTVPVTSVGALNI",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          43,
+          100
+        ],
+        "segments": [
+          "CSDSR",
+          "HTSC"
+        ],
+        "gap_len": 48
+      }
+    ]
+  },
+  {
+    "id": "WP_441877015.1 carbonic anhydrase [Microbacterium gubbeenense]",
+    "sequence": "MTQVLTPTDAWRRMQEGNERFVAGAPNHPHQDVSHRHQLAGAQRPAAVLFGCSDSRLAAEIIFDMGLGDLFVVRNAGQVTGESIMGTIEYAVDLLEVPLIVVLGHDECGAVRAAVDSLGPDAPLLAPAIWRQVSPIVPAARRARQEKIDAGEDGSHVDAWRVGQLHLRDTITAILHSSEMISDAVASGRLGIVGANYKLAEGTAVPDVMLGIADESASDAKEGSIK",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          51,
+          108
+        ],
+        "segments": [
+          "CSDSR",
+          "HDEC"
+        ],
+        "gap_len": 48
+      }
+    ]
+  },
+  {
+    "id": "WP_441874472.1 carbonic anhydrase [Microbacterium gubbeenense]",
+    "sequence": "MSKTEMTAGEVWDSLVEGNDRFVSGRPHHPHQTPERRGELVGEQTPHAAILGCSDSRVPAEIVFDCGLGDLFVVRNIGQVVNETVIATMEFGVVALGVPLIVVKAHTSCGAVAATIEQSGSTPPDTTPAIRNALDLIRPAVAEEWLSAPRASHVVDAELIDANSAGRRHVRRMIAELTSRSEVIAAAVDQGKVALRGSW",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          52,
+          109
+        ],
+        "segments": [
+          "CSDSR",
+          "HTSC"
+        ],
+        "gap_len": 48
+      }
+    ]
+  },
+  {
+    "id": "WP_441862329.1 carbonic anhydrase [Phaeovulum sp. W22_SRMD_FR3]",
+    "sequence": "MNHVRPLPSYLIQRYHGWKATTYAENRAWYRRLADEGQRPRAMVISCCDSRVHVTSIFGADQGEFFIHRNIANLVPPFNPDGDHHGTSAAVEYAVTTLKVAHIIVLGHSSCGGVQGCDAMCSGHAPALEEKTSFVGTWLNLLRPGYERVAHLPDGERVPALEREAVLVSLDNLMTFPFIKSAIDSNELSLHGLWTDIGEGGLHQFDPQTGKFAQI",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          46,
+          111
+        ],
+        "segments": [
+          "CCDSR",
+          "HSSC"
+        ],
+        "gap_len": 56
+      }
+    ]
+  },
+  {
+    "id": "WP_441849816.1 carbonic anhydrase [Microbacterium gubbeenense]",
+    "sequence": "MPAEIVFDCGLGDLFVVRNIGQVVNETVIATMEFAVVALGVPLIVVKAHTSCGAVAATIEQSGSTPPDTTPAIRNALGLIRPAVAEEWLSAPRASHVVDAELIDANSAGRRHVRRMIAELTSRSEVIAEAVDQGKVSIVGCQYDLNHGRTVPVTSVGALNI",
+    "family": "None",
+    "matches": []
+  },
+  {
+    "id": "WP_441846867.1 carbonic anhydrase [Mesonia hippocampi]",
+    "sequence": "MDISKIFKNNHKWVEDKLQLNPDYFKKLSEGQNPDILYIGCSDSRVTAEDLMGVTPGEAFVHRNIANMVPNTDLSAMSVIDYAVSHLKVNHVVVCGHYYCGGVKAAMQSADLGILNPWLRNIRDVYRIHQAELDSITDEDQRYKRLVELNVEEQCRNVIKTAEVQRAYNDRGITVHGWVFDIHSGKLIDLNIDYLKIMENVMEIYRLE",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          40,
+          100
+        ],
+        "segments": [
+          "CSDSR",
+          "HYYC"
+        ],
+        "gap_len": 51
+      }
+    ]
+  },
+  {
+    "id": "WP_441845981.1 carbonic anhydrase [Mesonia hippocampi]",
+    "sequence": "MGKAFYKKILENNKTWIAAKTDQDKTYFKRLEKGQEPPLLWIGCADSRVPTNTLLGAEPGEVFVHRNIANMVIHTDMNLLSVLDYAVNALKVEHVIVCGHYGCGGVKAAMSDSSVGLIDNWLRNIRDVYKIHQQELDAILDEQKRWDKFVEFNVQEQVSHVAETSIVQQAWANKQSLTIHGWVYDIGSGGINDLEIDMSNINQLVKTHKLTL",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          43,
+          103
+        ],
+        "segments": [
+          "CADSR",
+          "HYGC"
+        ],
+        "gap_len": 51
+      }
+    ]
+  },
+  {
+    "id": "WP_441841023.1 carbonic anhydrase [Microbacterium gubbeenense]",
+    "sequence": "MSKTEMTAGEVWDSLVEGNDRFVSGRPHHPHQTPERRGELVGEQTPHAAILGCSDSRVPAEIVFDCGLGDLFVVRNIGQVVNETVIATMEFAVVALGVPLIVVKAHTSCGAVAATIEQSGSTPPDTTPAIRNALDLIRPAVAEEWLSAPRASHVVDAELIDANSAGRRHVRRMIAELTSRSEVIAEAVDQGKVSIVGCQYDLNHGRTVPVTSVGALNI",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          52,
+          109
+        ],
+        "segments": [
+          "CSDSR",
+          "HTSC"
+        ],
+        "gap_len": 48
+      }
+    ]
+  },
+  {
+    "id": "WP_441838793.1 carbonic anhydrase [Microbacterium gubbeenense]",
+    "sequence": "MSKTEMTAGEVWDSLVEGNDRFVSGRPHHPHQTPERRGELVGEQTPHAAILGCSDSRVPAEIVFDCGLGDLVVVRNIGQVVNETVIATMEFAVVALGVPLIVVKAHTSCGAVAATIEQSGSTPPDTTPAIRNALDLIRPAVAEEWLSAPRASHVVDAELIDANSAGRRHVRRMIAELTSRSEVIAAAVDQGKVALRGSW",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          52,
+          109
+        ],
+        "segments": [
+          "CSDSR",
+          "HTSC"
+        ],
+        "gap_len": 48
+      }
+    ]
+  },
+  {
+    "id": "WP_441800441.1 carbonic anhydrase [Leifsonia sp. RAF41]",
+    "sequence": "MLDGNARFVAGEPQHPHQDVERRTTVAGGQEPVAAIFGCSDSRLSAEIIFDMGLGDAFVVRNAGQVVSASEIGSLEYAVAVLKVPLILVLGHDSCGAVAAAIDSQAEDADPLPPHIAQLIAPIVPAVRRVAGDGAVDPAAVDAGEVGREHLRDTVAELLAQSEIISSAVAENTLAIVGANYRLAEGRVVPDVVVGLRD",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          38,
+          95
+        ],
+        "segments": [
+          "CSDSR",
+          "HDSC"
+        ],
+        "gap_len": 48
+      }
+    ]
+  },
+  {
+    "id": "WP_441792424.1 carbonic anhydrase [Leifsonia sp. YAF41]",
+    "sequence": "MPDTRPSPAKAWHEMVRGNERFVNGDPQHPRQDVDRRAELAGAQTPHAALFGCSDSRLAAEIIFDKGLGDLFVIRNAGQVISSSVLGSLEYAVGVLNVPLIVVLGHDTCGAVAAAIESQADDAPLLPPHINRMIQKIVPAVRRVSPHTDAAPFDPQAVDASAVGREHLRDTVTEMLERSEMISDAVAAGTLAIVGANYKLLEGRAEPDIVVGSV",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          52,
+          109
+        ],
+        "segments": [
+          "CSDSR",
+          "HDTC"
+        ],
+        "gap_len": 48
+      }
+    ]
+  },
+  {
+    "id": "WP_441788691.1 carbonic anhydrase [Leifsonia sp. 2MCAF36]",
+    "sequence": "MLEGNARFIAGEPQHPHQDVERRESVAGGQNPVATIFGCSDSRLSAEIIFDMGLGDAFVVRNAGQVVSSSVIGSLEYAVAVLNVPLILVLGHDSCGAVAAAIGSQAEDAEPLPPHIAQLIAPIVPAVRRVVGDGAVDPAAVDASEVGREHLRDTVAELLAQSEIISSAVAENTLAVVGANYRLAEGRVVPDVVVGLRD",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          38,
+          95
+        ],
+        "segments": [
+          "CSDSR",
+          "HDSC"
+        ],
+        "gap_len": 48
+      }
+    ]
+  },
+  {
+    "id": "WP_441755213.1 carbonic anhydrase [Fundicoccus sp. Sow4_H7]",
+    "sequence": "MKDFRKGIKLFKENDFTINHELYESLSDSQSPHTLFISCSDSRVSPERLMQAYPGELFQLRNIANIVPPFDHSYENIEAASVIEFALKVLEVDNIIVCGHSNCGGCAAAINPDFDSELLPYTADWITQLHDLSAEINDIYPEISPDDKAKKLEQLNVKQQLSNLMTFPTIRQKVEQGTLTINGWHYHIGTGEIYIYNSLGQDFELG",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          38,
+          103
+        ],
+        "segments": [
+          "CSDSR",
+          "HSNC"
+        ],
+        "gap_len": 56
+      }
+    ]
+  },
+  {
+    "id": "WP_441751643.1 MULTISPECIES: carbonic anhydrase [unclassified Fundicoccus]",
+    "sequence": "MRDIYEALKQFKAKDYVRNQKLYETLSQTQTPHTLFIGCSDSRVSPERLLQAYPGEVFHIRNIANIVPPAGQSVKYASTTSSVEYAVEVLNVKNIIVCGHSNCGGCAASINPPSNIDKLPYTDIWISQINALRDQIADEMAGESFEEQATHLEKVNVIQQLSNLLTFDNIRERVADGQLTLNGWHYNIGTGEISIYNQEKEVFEVF",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          38,
+          103
+        ],
+        "segments": [
+          "CSDSR",
+          "HSNC"
+        ],
+        "gap_len": 56
+      }
+    ]
+  },
+  {
+    "id": "WP_441749116.1 carbonic anhydrase [Gallicola sp. Sow4_E12]",
+    "sequence": "MDRLLSGIKKFRLEVLEEQEDFYESLRREQHPHTLFITCSDSRILPSRITGTNPGELFVVRNVANIVPPYRVTDEYVATTSAIEYAVKALKVKHIIICGHSNCGGCSASLHQTAEKMDLPHTQRWLELLDEVREKVVALEKEPLIQEVMMEEANILAQLENLRTFPEIKEREERGEIDIHGWYYDIGTGEVLEYIEDLGKFTVINEIE",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          38,
+          103
+        ],
+        "segments": [
+          "CSDSR",
+          "HSNC"
+        ],
+        "gap_len": 56
+      }
+    ]
+  },
+  {
+    "id": "WP_441748779.1 carbonic anhydrase [Helicobacter pylori]",
+    "sequence": "MKAFLGALEFQENEYEELKELYESLKTKQKPHTLFISCVDSRVVPNLITGTKPGELYVIRNMGNVIPPKTSHKESLSTMASIEYAIIHVGVQNLIICGHSDCGACGSIHLINDETTKAKTPYIADWIQFLEPIKEELKNHPQFSNHFAKRSWLTERLNVRLQLNNLLSYDFIQERVINNELKIFGWHYIIETGRIYNYNFESHFFEPIEETIKQRKSHENF",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          37,
+          102
+        ],
+        "segments": [
+          "CVDSR",
+          "HSDC"
+        ],
+        "gap_len": 56
+      }
+    ]
+  },
+  {
+    "id": "WP_441746241.1 carbonic anhydrase [Helicobacter pylori]",
+    "sequence": "MKAFLGALEFQENEYEELKELYESLKTKQKPHTLFISCVDSRVVPNLITGTKPGELYVIRNMGNIIPPKTSYKESLSTMASIEYAIVHVGIQNLIICGHSDCGACGSIHLINDGITKAQTPYIANWIQFLEPIKEELKNHPQFSNHFAKRSWLTERLNVRLQLNNLLSYDFIQERVINNELKIFGWHYIIETGRIYNYNFESHFFEPIEETIKQRKSHENF",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          37,
+          102
+        ],
+        "segments": [
+          "CVDSR",
+          "HSDC"
+        ],
+        "gap_len": 56
+      }
+    ]
+  },
+  {
+    "id": "WP_441744135.1 carbonic anhydrase [Helicobacter pylori]",
+    "sequence": "MEAFLGALEFQENEYEELKELYESLKTKQKPHTLFISCVDSRVVPNLITGTKPGELYVIRNMGNIIPPKTSHKESLSTMASIEYAIVHMGVQDLIICGHSDCGACGSIHLINDGITKAKTPYIADWIQFLEPIKEELKNHPQFSNHFAKRSWLTERLNVRLQLNNLLSYDFIQERVVNNELKIFGWHYIIETGRIYNYNFESHFFEPIEETIKQRKSHENF",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          37,
+          102
+        ],
+        "segments": [
+          "CVDSR",
+          "HSDC"
+        ],
+        "gap_len": 56
+      }
+    ]
+  },
+  {
+    "id": "WP_441743375.1 carbonic anhydrase [Flavobacterium sp. W21_SRS_FM6]",
+    "sequence": "MAQLMVSGIEAIQRLKDGNKRFVSGVRSIDNMIKQSQREEFVEGQAPFAIILGCADSRVPAEIVFDQGLGDLFVIRVAGNIVAPSQVGSIEFATDTFGTALVVVLGHSQCGAVKAAIEELKNPKGAHSFNLLSIVNRIMPTVEPLFHTELRHQDDKLLDASVHANILASTNQLRHGSARLEQLVQEGKLTIIGAEYSLKTGIVTFIEGL",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          53,
+          110
+        ],
+        "segments": [
+          "CADSR",
+          "HSQC"
+        ],
+        "gap_len": 48
+      }
+    ]
+  },
+  {
+    "id": "WP_441742261.1 carbonic anhydrase [Helicobacter pylori]",
+    "sequence": "MKAFLGALEFQENEYEELKELYESLKTKQKPHTLFISCVDSRVVPNLITGTKPGELYVIRNMGNVIPPKTSHKESLSTMASIEYAIVHVGVQNLIICGHSDCGACGSIHLINDGITKAKTPYIADWIQFLEPVKEELKNHPQFSNHFAKRSWLTERLNVRLQLNNLLSYDFIQERVMNNELKIFGWHYIIETGRIYNYNFESHFFEPIEETIKQRKSHENF",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          37,
+          102
+        ],
+        "segments": [
+          "CVDSR",
+          "HSDC"
+        ],
+        "gap_len": 56
+      }
+    ]
+  },
+  {
+    "id": "WP_441725296.1 carbonic anhydrase [Helicobacter pylori]",
+    "sequence": "MKAFLGALEFQENEYEELKELYESLKTKQKPHTLFISCVDSRVVPNLITGTKPGELYVIRNMGNVIPPKTSHKESLSTMASIEYAIVHVGVQNLIICGHSDCGACGSIHLINDGTTKAKTPYIADWIQFLEPIEEELKNHPQFSNHFAKRSWLTERLNVRLQLNNLLSYDFIQERVVNNELKIFGWHYIIETGRIYNYNFESHFFEPIEETIKQRKSHENF",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          37,
+          102
+        ],
+        "segments": [
+          "CVDSR",
+          "HSDC"
+        ],
+        "gap_len": 56
+      }
+    ]
+  },
+  {
+    "id": "WP_441718524.1 carbonic anhydrase [Helicobacter pylori]",
+    "sequence": "MEAFLGALEFQENEYEELKELYESLKTKQKPHTLFISCVDSRVVPNLITGTKPGELYVIRNMGNVIPPKTSHKESLSTMASIEYAIVHVGVQNLIICGHSDCGACGSIHLINDGITKAKTPYIADWIQFLEPIKEELKNHPQFSNHFAKRSWLTERLNVHLQLNNLLSYDFIQERVMNNELKIFGWHYIIETGRIYNYNFESHFFEPIEETIKQRKSHENF",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          37,
+          102
+        ],
+        "segments": [
+          "CVDSR",
+          "HSDC"
+        ],
+        "gap_len": 56
+      }
+    ]
+  },
+  {
+    "id": "WP_441709009.1 carbonic anhydrase [Helicobacter pylori]",
+    "sequence": "MEAFLGALEFQENEYKELKELYESLKTKQKPHTLFISCVDSRVVPNLITGTKPGELYVIRNMGNVIPPKTSYKESLSTMASIEYAIVHVGVQNLIICGHSDCGACGCIHLINDGTTKAKTPYIANWIQFLEPIKEELKNHPQFSNHFAKRSWLTERLNVRLQLNNLLSYDFIQERVMNNELKIFGWHYIIETGRIYNYNFESHFFEPIEETIKQRKSHENF",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          37,
+          102
+        ],
+        "segments": [
+          "CVDSR",
+          "HSDC"
+        ],
+        "gap_len": 56
+      }
+    ]
+  },
+  {
+    "id": "WP_441708387.1 carbonic anhydrase [Hyphomicrobium sp. 2TAF46]",
+    "sequence": "MSSFPESLTDRYRRFRHRHFVLNADHYEELATYGQSPETMVISCSDSRVDPETIFSAMPGELFIVRNVANLVPPYEIGGKYHGVSTAVEFAVMNLRIKNLIIMGHSGCGGIKAALDQSAAIQTEAQFISRWMSMLDDARLSVLAAHQNSPQAVRQEALEKEGIKQAIKNLRTFPFVRDQEERGRLALHGAHFDIKSGILTVLNHSRGMFYPL",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          43,
+          108
+        ],
+        "segments": [
+          "CSDSR",
+          "HSGC"
+        ],
+        "gap_len": 56
+      }
+    ]
+  },
+  {
+    "id": "WP_441707065.1 carbonic anhydrase [Helicobacter pylori]",
+    "sequence": "MKAFLGALEFQENEYEELKELYESLKTKQKPHTLFISCVDSRVVPNLITGTKPGELYVIRNMGNVIPPKTSHKESLSTMASIEYAIVHVGVQNLIICGHSDCGACGSIHLINDGITKAKTPYIADWIQFLEPIKEELKNHPQFSNHFAKRSWLTERLNVRLQLNNLLSYDFIQERVMNNELKIFGWHYIIETGRIYNYNFENHFFEPIEETIKQRKSHENF",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          37,
+          102
+        ],
+        "segments": [
+          "CVDSR",
+          "HSDC"
+        ],
+        "gap_len": 56
+      }
+    ]
+  },
+  {
+    "id": "WP_441704766.1 carbonic anhydrase [Helicobacter pylori]",
+    "sequence": "MKAFLGALEFQENEYEELKELYESLKTKQKPHTLFISCVDSRVVPNLITGTKPGELYVIRNMGNVIPPKTSHKESLSTMASIEYAIVHVGIQNLIICGHSDCGACGSIHLIHDETTKAKTPYIANWIQFLEPIKEELKNHPQFSNHFAKRSWLIERLNARLQLNNLLSYDFIQERVINNELKIFGWHYIIETGRIYNYNFESHFFEPIEETIKQRKSHENF",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          37,
+          102
+        ],
+        "segments": [
+          "CVDSR",
+          "HSDC"
+        ],
+        "gap_len": 56
+      }
+    ]
+  },
+  {
+    "id": "WP_441700632.1 carbonic anhydrase [Helicobacter pylori]",
+    "sequence": "MKAFLGALEFQENEYEELKELYESLKTKQKPHTLFISCVDSRVVPNLITGTKPGELYVIRNMGNVIPPKTSYKESLSTMASIEYAIVHVGVQNLIICGHSDCGACGSIHLISDGTTKAKTPYIADWIQFLEPIKEELKNHPQFSNHFAKRSWPTERLNVCLQLNNLLSYDFIQERVMNNELKTFGWHYIIETGRIYNYNFESHFFEPIEETIKQRKSHENF",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          37,
+          102
+        ],
+        "segments": [
+          "CVDSR",
+          "HSDC"
+        ],
+        "gap_len": 56
+      }
+    ]
+  },
+  {
+    "id": "WP_441698831.1 carbonic anhydrase [Inquilinus sp. YAF38]",
+    "sequence": "MDDLFLGMARFRAEIFPQQQPLYQKLATDGQQPQALVISCADSRVVPELITQSGPGQIFCCRNXGNIVPPFSQANGGVSSAIEYAVVALGVRDIVVCGHSDCGAMKALLHPEVLQDMPNVAAWLRHSHAAHRVVCEAYPPDRGEPETLRALALENVVAQLNHLRTHPAVAARIAQGRLRLHGWFFELETGETLAYDGAAGRFGRLDDVGGLPVALPPMPRLAAE",
+    "family": "None",
+    "matches": []
+  },
+  {
+    "id": "WP_441696612.1 carbonic anhydrase [Helicobacter pylori]",
+    "sequence": "MKAFLGALEFQENEYEELKELYENLKTKQKPHTLFISCVDSRVVPNLITGTKPGELYVIRNMGNIIPPKISHKESLSTMASIEYAIVHVGVHNLIICEHSDCGACGSIHLIHDETTKAKTPYIADWIQFLEPIKEELKNHPQFSNHFAKRSWLTERLNARLQLNNLLSYDFIQERVMNNELKIFGWHYIIETGRIYNYNFESHFFEPIEETIKQRKSHENF",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          37,
+          102
+        ],
+        "segments": [
+          "CVDSR",
+          "HSDC"
+        ],
+        "gap_len": 56
+      }
+    ]
+  },
+  {
+    "id": "WP_441693953.1 carbonic anhydrase [Helicobacter pylori]",
+    "sequence": "MKAFLGALEFQENEYEELKELYESLKTKQKPHTLFISCVDSRVVPNLITGTKPGELYVIRNMGNVIPPKTSYKESLSTMASIEYAIVHVGVQNLIICGHSDCGACGSIHLISDETTKAKTPYIADWIQFLEPIKEELKNHPQFSNHFAKRSWLTERLNVRLQLNNLLSYDFIQERVVNNELKIFGWHYIIETGRIYNYNFESHFFEPIEETIKQRKSHENF",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          37,
+          102
+        ],
+        "segments": [
+          "CVDSR",
+          "HSDC"
+        ],
+        "gap_len": 56
+      }
+    ]
+  },
+  {
+    "id": "WP_441691818.1 carbonic anhydrase [Inquilinus sp. YAF38]",
+    "sequence": "MFPERLTDGYRAFLSGRFAAERNRYEMLAEAGQKPEIMVIGCVDSRVSPEVIFDAAPGELLVVRNVANLVPPYEPDRETQHGTSAALEFGVQALRVKHIVVLGHAHCGGIRAFADEQEPLSPGDFIGRWMSQIAPAAESLGPRKPEDGDGYLRRLEFASVELSLKNLMTFPCVSILVGRGKLQLHGAYFGVASGRLLVRDPDTGEFEPVAEEGRGGLAAIRCP",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          41,
+          107
+        ],
+        "segments": [
+          "CVDSR",
+          "HAHC"
+        ],
+        "gap_len": 57
+      }
+    ]
+  },
+  {
+    "id": "WP_441666705.1 carbonic anhydrase [Halomonas sp.]",
+    "sequence": "MLLENNRAWAEQKCQDDPDYFARLARQQAPEYLWIGCSDSRVPANQIIDLPPGEVFVHRNVGNLIHPNDMNALSVVQYAVDVLKVRHIMVVGHYGCGAIHAAMLGGEFGIVDYWLHSVRELYSLHRDELEHLPMAQQVDRMCELNAMAQVNNLSRTKIIQRAWQRGQKLSVHGWTYGLGDGRVTDLKCSVHGLDQVAKLYRIDHLTSLEGD",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          36,
+          96
+        ],
+        "segments": [
+          "CSDSR",
+          "HYGC"
+        ],
+        "gap_len": 51
+      }
+    ]
+  },
+  {
+    "id": "WP_441661752.1 carbonic anhydrase [Kerstersia sp.]",
+    "sequence": "MRNFPTRLTEGYRSFLSGRFPSERKRYKNLAEKGQHPEILIIGCCDSRVSPEVIFDAGPGELFVVRNVANLVPPYEPDSDSYHGTSAAIEFAVEGLEVKHIVVLGHASCGGIASFYDHAQPLTAGNFIGKWMSQIAATADRLGTLPAERPDALRKLELAVIEHSLKNLMTFPSIRQRVEAGTLKLHGTYFGVATGLLFLRDGESGGFLPVLEDEAIAALQQQADD",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          43,
+          109
+        ],
+        "segments": [
+          "CCDSR",
+          "HASC"
+        ],
+        "gap_len": 57
+      }
+    ]
+  },
+  {
+    "id": "WP_441649742.1 carbonic anhydrase [Cupriavidus sp. M-11]",
+    "sequence": "MQEIIDGVLKFQRDAFPQRSDLFKRLATSQSPSTLFIACSDSRVVPELLTQREPGELFVIRNAGNIVPAYGTQAGGVSASVEYAVAGLNVTDIVVCGHSDCGAMTAVATCKCLDHMPAVKGWLHHADAAKAVNEAREHASEHARVDSMVRENVIAQLANIKTHPSVALALEQGRLNLHGWVYDIETGAIDTLDGNTNRFVSLAARPGASATPARRELIAA",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          38,
+          101
+        ],
+        "segments": [
+          "CSDSR",
+          "HSDC"
+        ],
+        "gap_len": 54
+      }
+    ]
+  },
+  {
+    "id": "WP_441647981.1 carbonic anhydrase [Cryobacterium sp. W22_MBD10_FK3]",
+    "sequence": "MTDTPTPADVWNDLAEGNERFVNGSPQHPRQDVDRRAETAFEQTPMAALFGCSDSRLAAEIIFDKGLGDLFVVRNAGQVISDSVLGSLEYAVAVLNVSLILVLGHDRCGAVLAAIDSQAEDAQALPPHINNIIEKIVPAVRRVGGPTTGPLDPHEVDASAVGREHLRDTVAELVQRSEMISAAIAEGTLAIVGANYRLLEGRAEPDIVVGIV",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          51,
+          108
+        ],
+        "segments": [
+          "CSDSR",
+          "HDRC"
+        ],
+        "gap_len": 48
+      }
+    ]
+  },
+  {
+    "id": "WP_441642453.1 carbonic anhydrase [Cupriavidus sp. 2KB_3]",
+    "sequence": "MKEIIEGFLKFQREVFPARAALFKKLATAQNPTALFVTCSDSRVVPELVTQREPGDIFVIRNAGNIVPSHSGEPGGVSATVEYAVAVLGVTDVVICGHSDCGAMTAIATNKDLTHLPAVASWLRHADAAKAVSCAQKHGSPAEALDSMVRENVVAQLANIRTHPSVALGLANGTLKLHGWVYDIETGGIRTFNSESLCFVSLADYPEACATPKRSTARASKQNQV",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          38,
+          101
+        ],
+        "segments": [
+          "CSDSR",
+          "HSDC"
+        ],
+        "gap_len": 54
+      }
+    ]
+  },
+  {
+    "id": "WP_441642423.1 carbonic anhydrase [Cupriavidus sp. 2KB_3]",
+    "sequence": "MKDIVKGFLEFKRKAYPERSDLFKSLASTQSPSTLFISCSDSRVVPEMLTQGEPGDLFVIRNAGNIVPSFGPEPGGVTATVEYAVTALGVRDIVVCGHSDCGAMTAVATCNHLDHMPAVKSWLRHADAARVVNESMEHPSTKAKVDSMVRQNVIAQLANLRTHPSVALAVAQGKVSLHGWVFDIETGVIESLDGGAGTFVPLSDHPEVTATPALRVAA",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          38,
+          101
+        ],
+        "segments": [
+          "CSDSR",
+          "HSDC"
+        ],
+        "gap_len": 54
+      }
+    ]
+  },
+  {
+    "id": "WP_441636091.1 carbonic anhydrase [Cupriavidus sp. 2MCAB6]",
+    "sequence": "MRDIIDGFLRFQRDVYPQRVELFKQLATTQNPKALFVTCSDSRVVPELLTQREPGELFVIRNAGNIVPSYGPEPGGVSATVEYAVAVLGVQDIVICGHSDCGAMGAISRCTCLDHLPAVASWLRHADAAKAINAAYQFDTPRAKLDSLVRENVIAQLANLHTHPSVALALEQGRMNLHGWVYDIEKGSIDALDGPTRRFVPLAESPTTVAVASRNRGQV",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          38,
+          101
+        ],
+        "segments": [
+          "CSDSR",
+          "HSDC"
+        ],
+        "gap_len": 54
+      }
+    ]
+  },
+  {
+    "id": "WP_441631841.1 carbonic anhydrase [Cupriavidus sp. 2MCAB6]",
+    "sequence": "MQDLIDGFLKFQREEFPKRSELFKRLATSQNPRTLFIACSDSRVVPELLTQREPGDLFVIRNAGNVVPSYGTQPGGVSASVEYAVAGLGVTDVVICGHSDCGAMTAIATCQCLDHMPAVAGWLRHCDAAKSVNEAREHASPRARVDSMVRENVIAQLANIKTHPSVALALEQGRLQLHGWVYDIETGSIAALDGTTNHFVALADHPHVCATPTRLGIAA",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          38,
+          101
+        ],
+        "segments": [
+          "CSDSR",
+          "HSDC"
+        ],
+        "gap_len": 54
+      }
+    ]
+  },
+  {
+    "id": "WP_441624241.1 MULTISPECIES: carbonic anhydrase [unclassified Cupriavidus]",
+    "sequence": "MRKLIMGIVEFREKMLPQYAERFSKLALAQKPDAFFITCSDSRVVPDLLASTHPGDLFTMRNVGNLIPPATAEGVSTGDLSEASAIEYAVLVLKVANIVVCGHSECGAMKAVYARNPKLKAPNLDKWLYHANNAAFRLEHEGPLNDGLKPHDQLSQLNVLVQLEHLMTYPIVRHQVTAGALVLSGWWFDIATGDMYAYERASRSFEVIDRALAERLASRLASRAR",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          38,
+          106
+        ],
+        "segments": [
+          "CSDSR",
+          "HSEC"
+        ],
+        "gap_len": 59
+      }
+    ]
+  },
+  {
+    "id": "WP_441623036.1 carbonic anhydrase [Cupriavidus sp. RAF12]",
+    "sequence": "MKDLIEGILKFQREEYPKRSQLFRQLATQQHPSVLFIACSDSRVVPELLTQSEPGELFVIRNAGNIVPAHGLQPGGVSASVEYAVAGLKVRDIVICGHSDCGAMTAVATCQCLDHMPAVAQWLRHADGARRISLARPHASDRDRVDDMVRENVVEQLAHIQTHPSVAQALAEGRVDLHGWIYDIETGGILALDARTGRFVPLADHPEVCATPASAQARTA",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          38,
+          101
+        ],
+        "segments": [
+          "CSDSR",
+          "HSDC"
+        ],
+        "gap_len": 54
+      }
+    ]
+  },
+  {
+    "id": "WP_441616749.1 carbonic anhydrase [Cupriavidus sp. RAF12]",
+    "sequence": "MHEIERLLKGFERFQQRYFEAEPALFDTLRRGQHPPTLLIGCSDSRVDPGMLLGCDPGDLFTVRNIANLVPPCRHDAEDTLHGVSAAIQFAVTQLQVARIIVMGHAGCGGIRALMAMDPDEPPAPGDFIAPWVRIAASARHQVDEALRHASAAQRQHACEQAAILVSLRNLETFPAVREAMSQGRLSLHGWYFDLQAGALLAYSERADGFLPLVCPLETTL",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          41,
+          108
+        ],
+        "segments": [
+          "CSDSR",
+          "HAGC"
+        ],
+        "gap_len": 58
+      }
+    ]
+  },
+  {
+    "id": "WP_441616069.1 carbonic anhydrase [Cupriavidus sp. RAF12]",
+    "sequence": "MKDIIDGVLKFQRDAYPQRSELFQRLATHQNPSTLFIACSDSRVVPELLTQREPGDLFVIRNAGNIVPAHGSQAGGVSATVEYAVAGLGVTDIVVCGHSDCGAMTAVATCKCLDHMPAVAGWLRHADAARAVNEGHAHSSVRDRVDGMVRENVIAQLANIKTHPSVARAIEQGKLTLHGWIYDIATGRIDALDSAGKRFQPLADHSQVAPASRPLAQAA",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          38,
+          101
+        ],
+        "segments": [
+          "CSDSR",
+          "HSDC"
+        ],
+        "gap_len": 54
+      }
+    ]
+  },
+  {
+    "id": "WP_441613789.1 MULTISPECIES: carbonic anhydrase [unclassified Cupriavidus]",
+    "sequence": "MAPNVARDLLTFLHGLDRRRSRKLRAAANRDVAGHRPPGPCSAAAARGIGRRREDEMCDLCELCDDARHASHVSRRGFLRTGALAALAPWSIGAALAADAPAPGAPPQNAIAPAQALKRLMDGNARYAANTPDERDFSSGRAARAQVQYPIAAILGCADSRVAPELAFDQAPGDLFVVRVAGNIVSPDLLASLEYGIEFLGVPLIVVLGHTNCGAVDAAIKVLKDKAVLPGHLPGLVAAIKPAVIAAEKTGPADLPGSAVAENVRRQVIRLKASPPVVQKRYGDKKIDIVGAVYDLQSGKVALV",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          63,
+          213
+        ],
+        "segments": [
+          "CDDAR",
+          "HTNC"
+        ],
+        "gap_len": 141
+      }
+    ]
+  },
+  {
+    "id": "WP_441612748.1 carbonic anhydrase [Cupriavidus sp. 2TAF22]",
+    "sequence": "MQEIIDGVLKFQRDAFPQRSDLFKRLATSQSPSTLFIACSDSRVVPELLTQRECLDHMPAVKGWLHHADAAKAVNEAREHASEHARVDSMVRENVIAQLANIKTHPSVALALEQGRLNLHGWVYDIETGAIDTLDGNTNRFVSLAARPGASATPARRELIAA",
+    "family": "None",
+    "matches": []
+  },
+  {
+    "id": "WP_441609320.1 carbonic anhydrase [Dyella sp. 2RAB6]",
+    "sequence": "MTTTSRRQFLQLSALAVASAAAPWADVHARAMPSPNFPPLPAHRPTGQEALDRLLQGNARFVAGKGSAACRTPEDFAKVAQGQAPFAAIIACSDSRTAPEIIFDQGVGQLFTVRAAGNVVAGSGPVMKGSIEYAVAELGVSLILVLGHSECGAMKAAIQFRHEQNKPAGAIDDLLELIYPAVDQTVSEDGKLSGKALQKQVTYNNVNNGVQRLRGLEPIIAPAVRSGAVMVAGAVHDLATGTVTVWPKLA",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          91,
+          151
+        ],
+        "segments": [
+          "CSDSR",
+          "HSEC"
+        ],
+        "gap_len": 51
+      }
+    ]
+  },
+  {
+    "id": "WP_441605959.1 carbonic anhydrase [Dyella sp. 2RAB6]",
+    "sequence": "MERLLEGFEHFRRTVFPEQRELFKKLATGQSPHTLFITCADSRVMPEMIFSALPGEIFVYRNIGNIVPPYAQHVSGVVAAIEYAVKVLQVKHIVICGHSDCGAMKGLLAPAKVAHMPSVAAWLKHADVARYVVAENSPHLQGEEALRRVTEENVVGQLEHLRTLPAVAAAMANGSVSIHGWLYDIALAELRAFDAHSGHFVMIDPASRKVPDASPHARFAASASAA",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          38,
+          101
+        ],
+        "segments": [
+          "CADSR",
+          "HSDC"
+        ],
+        "gap_len": 54
+      }
+    ]
+  },
+  {
+    "id": "WP_441603511.1 MULTISPECIES: carbonic anhydrase [unclassified Dyella]",
+    "sequence": "MKRLIEGFEQFRNEVFPAQREVFRKLAAGQSPSTMFITCADSRVMPELLFSAQPGELFVYRNIGNIVPPYAQHVSGVVAAIEYAVKVLKVSHIVICGHSDCGAMKALQHPELVQDMPSVAAWMKHADVARYVVDQNGPGLQGSEGLRRLTEENVVGQLEHLRTLPTVAAAMASGQLRIHGWVYDIEHAGLKGFDALEGRFVQIEPGTAGFPEATPHARFAVPASSAA",
+    "family": "Beta",
+    "matches": [
+      {
+        "family": "Beta",
+        "span": [
+          38,
+          101
+        ],
+        "segments": [
+          "CADSR",
+          "HSDC"
+        ],
+        "gap_len": 54
+      }
+    ]
+  }
+]
