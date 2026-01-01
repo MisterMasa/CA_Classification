@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the following article."
+authors:
+  - family-names: Gheibzadeh
+    given-names: Mohammad Sadegh
+  - family-names: Manyumwa
+    given-names: CV
+  - family-names: Tastan Bishop
+    given-names: Ö
+  - family-names: Shahbani Zahiri
+    given-names: H
+  - family-names: Parkkila
+    given-names: S
+  - family-names: Zolfaghari Emameh
+    given-names: R
+title: "Genome Study of α-, β-, and γ-Carbonic Anhydrases from the Thermophilic Microbiome of Marine Hydrothermal Vent Ecosystems"
+journal: "Biology (Basel)"
+volume: "12"
+issue: "6"
+pages: "770"
+year: 2023
+doi: "10.3390/biology12060770"
+pmid: "37372055"
+pmcid: "PMC10295459"
+date-released: 2023-05-25
+url: "https://github.com/USERNAME/CA_Classification"
